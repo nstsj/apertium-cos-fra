@@ -48,7 +48,7 @@ fr.sort() #alph order
 
 # Step 2: Create a fra-cos word-to-word dictionary out of source text
 
-fra_cos = { '':'','a':'hà', 'adorent':'amanu','aime':'amu', #'aime': amu/ama
+fra_cos = { '':'','a':'hà', 'adorent':'amanu','aime':'amu', 
        'allé':'andatu', 'alors':'tandu', 'animal':'animale', 'ans':'anni',
        'arbre':'albero', 'as-tu':'hai', 'assise':'basatu', # check 'as-tu'
        'attentivement':'attentamenti', 
@@ -56,46 +56,46 @@ fra_cos = { '':'','a':'hà', 'adorent':'amanu','aime':'amu', #'aime': amu/ama
        'autour':'attornu', 'autre':'altru', 'aux':'ad', 'avec':'cù', # fix 'aux', "avec"
        'beau':'bellu', 'bien sûr':'certu',  #'bien sur' should be considered as unseparable bigram
        'bien':'bè', 'boire':'beie', 'bruit':'sonu', 
-       "c'est":'hè', 'cache':'', 'ce':'stu', 'cela':'questu', #cache (well, the whole line)
+       "c'est":'hè', 'se cache':'si piatta', 'ce':'stu', 'cela':'questu',
        'chaises':'sedie', 'chat':'gattu', 'chaud':'caud', 'cherche':'cerca', 
        'chien':'ghjacaru', 'chiens':'ghjacari', 'chose':'cosa', 'cinq':'cinqui',
        'compte':'conta', 'compter':'cuntà', 'content':'felice', 'contents':'felici',
        'court':'corre', "d'elle":'à ella', 'dans':'in', 'de':'à', # de = ['a','di']; 'court'
-       'dehors':'', 'demande', 'derrière', 'deux',
-       'devant', 'dire', 'dis-moi', 'dit',
-       'dit-elle', 'doit', 'dort', 'elle',
-       'en', 'encore', 'enfants', 'ensemble',
-       'entend', 'est', 'est-ce', 'est-il',
-       'et', 'faisait', 'fait', 'fait-elle',
-       'fenêtre', 'fille', 'fini', 'froid',
-       'garçon', 'gens', 'grande', 'gros',
-       'hier', 'il', 'ils', 'jamais',
-       'jardin', 'je', 'jean', 'jeu',
-       'jouent', 'jouer', "l'arbre", "l'eau",
-       "l'entend", "l'heure", 'la', 'le',
-       'lentement', 'les', 'leur', "lorsqu'elle",
-       "lorsqu'ils", 'lorsque', 'main', 'mains',
-       'maintenant', 'mais', 'maison', 'manger',
-       'marche', 'marie', 'moment', 'mère',
-       "n'a", "n'est", "n'obtiennent", "n'obtient",
-       "n'ont", "n'y", 'ne', 'non', 'oiseau',
-       'ou', 'où', 'par', 'parlent', 'parler',
-       'partout', 'pas', 'pense', 'petit',
-       'petite','peut', 'peux', 'pourquoi',
-       'probablement', 'près', 'présent', 'pu',
-       "qu'elle", 'que', 'quelque', 'question',
-       'qui', 'regarde', 'rentrent', 'rien', 'rit',
-       'répond-elle', 'réponse', "s'approche",
-       'sa', 'sache', 'sait', 'savez-vous', 'se',
-       'ses', 'six', 'sont', 'sous', 'sûr',
-       'sœur', "t'ai", 'table', 'te', 'toujours',
-       'tous', 'travers', 'trouver', 'trouvé',
-       'très', 'tête', 'un', 'une', 'vers',
-       'vert', 'veut', 'vient', 'vite',
-       'voir', 'voit', 'voyez-vous', 'vu',
-       'yeux', 'à', 'écoute', 'être'
-       }  
- # dictionary is to be finished 
+       'dehors':'','demande':'dumanda', 'derrière':'dietro a', 'deux':'duie',
+       'devant':'davanti', 'dire':'dì', 'dis-moi':'', 'dit':'dici',
+       'dit-elle':'dici', 'doit':'deve', 'dort':'dormi', 'elle':'ella',
+       'en':'in', 'encore':'ancu', 'enfants':'zitelli', 'ensemble':'nsemmula',
+       'entend':'senti', 'est':'hè', 'est-ce':'', 'est-il':'hà',
+       'et':'e', 'il faisait':'facia', 'fait':'faci', 'fait-elle':'faci',
+       'fenêtre':'finestra', 'fille':'figghjola', 'fini':'finitu', 'froid':'freddo',
+       'garçon':'zitellu', 'les gens':'u pòpulu', 'grande':'grande', 'gros':'grande',
+       'hier':'eri', 'il':'ellu', 'ils':'', 'jamais':'eternu',
+       'jardin':"'ortu", 'je ne peux pas':"Ùn pò micca", 'Jean':'Jean', 'jeu':'ghjocu',
+       'ils jouent':'ghjocani', 'jouer':'ghjucà', "l'arbre":"l'arvulu", "l'eau":'acqua',
+       "l'entend":'senti à ellu', "l'heure":'tempu', 'la':'a', 'le':'u',
+       'lentement':'lentamente', 'les':'i', 'leur':'li', "lorsqu'elle":'quandu',
+       "lorsqu'ils":'quandu', 'lorsque':"quandu", 'main':'manu', 'mains':'mani',
+       'maintenant':'avà', 'mais':'ma', 'maison':'casa', 'manger':'manghjà',
+       'marche':'viaghja', 'Marie':'Marie', 'moment':'momentu', 'mère':'mamma',
+       "n'a pas":'ùn hà micca', "n'est pas":'ùn hè micca', "n'obtiennent":'un capiscini micca',
+       "n'obtient":'un capisci micca',"n'ont pas pu":'un pudutu micca', "n'y est pas":'ùn hè micca',
+       'non':'ùn', 'oiseau':'acellu','ou':'o', 'où':'induva',
+       'par':'attraversu', 'ils parlent':'parlani', 'parler':'parlà',
+       'partout':'ignilocu', 'pas':'micca', 'pense':'pensa', 'petit':'picculu',
+       'petite':'piccola','ne peut':'ùn pò', 'peux':'possu', 'pourquoi':'perchè',
+       'probablement':'prubbabbirmenti', 'près de':'vicinu', 'présent':'prisente',
+       "qu'elle":'chì ella', 'que':'chì', 'quelque':'qualchi', 'question':'domanda',
+       'qui':'quale', 'regarde':'guarda', 'ils rentrent':'tornani', 'rien':'macca', 'rit':'rida',
+       'répond-elle':'rispondi', 'réponse':'risposta', "s'approche":'si avvicina',
+       'sa':'so', 'à sa':'a so', 'sache':'cunnosce', 'sait':'sà', 'savez-vous':'sapeti',
+       'ses':'i so', 'six':'sei', 'sont':'sò', 'sous':'sottu ',
+       'sœur':'surella', "t'ai":'', 'table':'tavula', 'te':'ti', 'toujours':'sempre',
+       'tous':'tuttu', 'à travers':'attraverso', 'trouver':'truvà', 'trouvé':'trovu',
+       'très':'assai', 'tête':'testa', 'un':'un', 'une':'una', 'vers':'à', #vers = ??
+       'vert':'verde', 'veut':'voli', 'vient':'veni', 'vite':'subitu',
+       'voir':'veda', 'voit':'vedi', 'le voyez-vous':'lu viditi?', 'vu':'vistu',
+       'yeux':'occhi', 'écoute':'ascolta', 'être':'esse'
+       } 
  
  
 cos_fra = {y:x for x,y in fra_cos.items()} # a cos-fra dictionary (reversed)
@@ -112,7 +112,8 @@ def translate(direction):
     for s in said:
         if s in direction: # check if the words are in dict
             values = direction[s] # get values from keys, they are the target-lang words
-    res = result.append(values) # !! smth went wrong here 
+            res = result.append(values)
+            res = str(res)
     return (result)
     print(res)
     
