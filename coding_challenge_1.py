@@ -48,7 +48,8 @@ fr.sort() #alph order
 
 # Step 2: Create a fra-cos word-to-word dictionary out of source text
 
-fra_cos = { '':'','a':'hà', 'adorent':'amanu','aime':'amu', 
+fra_cos = { 
+       'a':'hà', 'adorent':'amanu','aime':'amu', 
        'allé':'andatu', 'alors':'tandu', 'animal':'animale', 'ans':'anni',
        'arbre':'albero', 'as-tu':'hai', 'assise':'basatu', # check 'as-tu'
        'attentivement':'attentamenti', 
