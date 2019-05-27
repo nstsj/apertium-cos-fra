@@ -1,2 +1,0 @@
-
-  lt-proc -w '/home/apertium/source/apertium-cos-fra/fra-cos.automorf-untrimmed.bin' | cg-proc -w '/home/apertium/source/apertium-cos-fra/fra-cos.rlx.bin' | apertium-tagger -g $2 '/home/apertium/source/apertium-cos-fra/fra-cos.prob' 
