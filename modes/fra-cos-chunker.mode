@@ -1,0 +1,2 @@
+
+  lt-proc -w '/home/apertium/source/apertium-cos-fra/fra-cos.automorf.bin' | cg-proc -w '/home/apertium/source/apertium-cos-fra/fra-cos.rlx.bin' | apertium-tagger -g $2 '/home/apertium/source/apertium-cos-fra/fra-cos.prob' | apertium-pretransfer| lt-proc -b '/home/apertium/source/apertium-cos-fra/fra-cos.autobil.bin' | lrx-proc '/home/apertium/source/apertium-cos-fra/fra-cos.autolex.bin' | apertium-transfer -b -t '/home/apertium/source/apertium-cos-fra/apertium-cos-fra.fra-cos.t1x'  '/home/apertium/source/apertium-cos-fra/fra-cos.t1x.bin' 

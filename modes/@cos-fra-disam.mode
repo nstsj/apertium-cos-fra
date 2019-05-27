@@ -1,0 +1,2 @@
+
+  lt-proc -w '/home/apertium/source/apertium-cos-fra/cos-fra.automorf-untrimmed.bin' | cg-proc -w -t '/home/apertium/source/apertium-cos-fra/cos-fra.rlx.bin' 
