@@ -17,6 +17,7 @@
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
     <sdef n="pr"              c="Preposition"/>
     <sdef n="adv"             c="Adverb"/>
+    <sdef n="preadv"          c="Preadverb"/>
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
@@ -99,18 +100,18 @@
       <!-- Define entries within <e> here. -->
       <!-- Corsican to French -->
       
-      <e><p><l>Jean<s n="np"/></l><r>Jean<s n="np"/><s n="m"/></r></p></e>
+      <e><p><l>Jean<s n="np"/><s n="m"/></l><r>Jean<s n="np"/><s n="m"/></r></p></e>
       <e><p><l>e<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
-      <e><p><l>Marie<s n="np"/></l><r>Marie<s n="np"/><s n="f"/></r></p></e>
-      <e><p><l>sò<s n="vbser"/></l><r>sont<s n="vbser"/></r></p></e>
+      <e><p><l>Marie<s n="np"/><s n="f"/></l><r>Marie<s n="np"/><s n="f"/></r></p></e>
+      <e><p><l>esse<s n="vbser"/></l><r>être<s n="vbser"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>dans<s n="pr"/></r></p></e>
       <e><p><l>u<s n="det"/></l><r>le<s n="det"/></r></p></e>
-      <e><p><l>ortu<s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ellu<s n="prn"/></l><r>il<s n="prn"/></r></p></e>
       <e><p><l>faci<s n="vblex"/></l><r>faire<s n="vblex"/></r></p></e>
       <e><p><l>bellu<s n="adv"/></l><r>beau<s n="adv"/></r></p></e>
       <e><p><l>oghje<s n="adv"/></l><r>aujourd'hui<s n="adv"/></r></p></e>
-      <e><p><l>assai<s n="adv"/></l><r>très<s n="adv"/></r></p></e>
+      <e><p><l>assai<s n="preadv"/></l><r>très<s n="preadv"/></r></p></e>
       <e><p><l>caud<s n="adv"/></l><r>chaud<s n="adv"/></r></p></e>
       <e><p><l>ma<s n="cnjcoo"/></l><r>mais<s n="cnjcoo"/></r></p></e>
       <e><p><l>eri<s n="adv"/></l><r>hier<s n="adv"/></r></p></e>
