@@ -116,6 +116,13 @@
       <e><p><l>ma<s n="cnjcoo"/></l><r>mais<s n="cnjcoo"/></r></p></e>
       <e><p><l>eri<s n="adv"/></l><r>hier<s n="adv"/></r></p></e>
       <e><p><l>freddo<s n="adv"/></l><r>froid<s n="adv"/></r></p></e>
+      <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+      <e><p><l>un<s n="det"/></l><r>un<s n="det"/></r></p></e>
+      <e><p><l>per<s n="pr"/></l><r>pour<s n="pr"/></r></p></e>
+      <e><p><l>cun<s n="pr"/></l><r>avec<s n="pr"/></r></p></e> <!-- add rules for cu/cù -->
+      <e><p><l>Paris<s n="np"/></l><r>Paris<s n="np"/></r></p></e>
+      <e><p><l>Corsica<s n="np"/></l><r>Corse<s n="np"/></r></p></e>
+      
       
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
