@@ -132,8 +132,9 @@
       <e><p><l>accindità<s n="vblex"/></l><r>faire des éclairs<s n="vblex"/></r></p></e>
       <e><p><l>accuncià<s n="vblex"/></l><r>arranger<s n="vblex"/></r></p></e>
       
-      <e><p><l>accunsente<s n="vblex"/></l><r>consentir, être agréable<s n="vblex"/></r></p></e>
-      <!-- one-to-many here. -->
+      <e><p><l>accunsente<s n="vblex"/></l><r>consentir<s n="vblex"/></r></p></e>
+      <e><p><l>accunsente<s n="vblex"/></l><r>être agréable<s n="vblex"/></r></p></e>
+      
       
       <e><p><l>achjarinì<s n="vblex"/></l><r>éclaircir<s n="vblex"/></r></p></e>
       <e><p><l>addurmintà<s n="vblex"/></l><r>endormir<s n="vblex"/></r></p></e>
@@ -152,8 +153,9 @@
       
       
       <e><p><l>apparisce<s n="vblex"/></l><r>apparaître<s n="vblex"/></r></p></e>
-      <e><p><l>appende<s n="vblex"/></l><r>pendre<s n="vblex"/></r></p></e> 
-      <!-- also: suspendre -->
+      <e><p><l>appende<s n="vblex"/></l><r>pendre<s n="vblex"/></r></p></e>
+      <e><p><l>appende<s n="vblex"/></l><r>suspendre<s n="vblex"/></r></p></e>
+      
       
       <e><p><l>appruntà<s n="vblex"/></l><r>préparer<s n="vblex"/></r></p></e>
       <e><p><l>apre<s n="vblex"/></l><r>ouvrir<s n="vblex"/></r></p></e>
@@ -163,13 +165,15 @@
       <e><p><l>ammagrì<s n="vblex"/></l><r>amaigrir<s n="vblex"/></r></p></e>
       <e><p><l>amminurì<s n="vblex"/></l><r>amincir<s n="vblex"/></r></p></e>
       <e><p><l>annivulassi<s n="vblex"/></l><r>s'obscurcir<s n="vblex"/></r></p></e>
-      <!-- also: s'ennuager-->
+      <e><p><l>annivulassi<s n="vblex"/></l><r>s'ennuager<s n="vblex"/></r></p></e>
+      
       
       <e><p><l>appughjà<s n="vblex"/></l><r>appuyer<s n="vblex"/></r></p></e>
       <e><p><l>arrichì<s n="vblex"/></l><r>enrichir<s n="vblex"/></r></p></e>
       <e><p><l>arricurdà<s n="vblex"/></l><r>rappeler<s n="vblex"/></r></p></e>
       <e><p><l>arrizzà<s n="vblex"/></l><r>dresser<s n="vblex"/></r></p></e>
-       <!-- also: lever-->
+      <e><p><l>arrizzà<s n="vblex"/></l><r>lever<s n="vblex"/></r></p></e>
+      
        
       <e><p><l>aspittà<s n="vblex"/></l><r>attendre<s n="vblex"/></r></p></e>
       <e><p><l>assourdì<s n="vblex"/></l><r>assourdir<s n="vblex"/></r></p></e>
@@ -189,18 +193,21 @@
       <e><p><l>batte<s n="vblex"/></l><r>battre<s n="vblex"/></r></p></e>
       <e><p><l>beie<s n="vblex"/></l><r>boire<s n="vblex"/></r></p></e>
       <e><p><l>bisugnà<s n="vblex"/></l><r>falloir<s n="vblex"/></r></p></e>
-       <!-- also: être nécessaire -->
+      <e><p><l>bisugnà<s n="vblex"/></l><r>être nécessaire<s n="vblex"/></r></p></e>
+     
        
        
       <e><p><l>boccapanzulà<s n="vblex"/></l><r>bailler<s n="vblex"/></r></p></e>
       <e><p><l>bolle<s n="vblex"/></l><r>bouillir<s n="vblex"/></r></p></e>
       <e><p><l>brusgià<s n="vblex"/></l><r>brûler<s n="vblex"/></r></p></e>
       <e><p><l>caccià<s n="vblex"/></l><r>chasser<s n="vblex"/></r></p></e>
-      <!-- also: enlever-->
+      <e><p><l>caccià<s n="vblex"/></l><r>enlever<s n="vblex"/></r></p></e>
+      
       
       <e><p><l>cambià<s n="vblex"/></l><r>changer<s n="vblex"/></r></p></e>
       <e><p><l>campà<s n="vblex"/></l><r>amuser<s n="vblex"/></r></p></e>
-      <!-- also: faire plaisir-->
+      <e><p><l>campà<s n="vblex"/></l><r>faire plaisir<s n="vblex"/></r></p></e>
+    
       
       <e><p><l>cantà<s n="vblex"/></l><r>chanter<s n="vblex"/></r></p></e>
       <e><p><l>capì<s n="vblex"/></l><r>comprendre<s n="vblex"/></r></p></e>
@@ -229,39 +236,7 @@
       <e><p><l>cumbatte<s n="vblex"/></l><r>combattre<s n="vblex"/></r></p></e>
       <e><p><l>cumprà<s n="vblex"/></l><r>acheter<s n="vblex"/></r></p></e>
       <e><p><l>cunduce<s n="vblex"/></l><r>conduire<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
-      <e><p><l>Corsica<s n="vblex"/></l><r>Corse<s n="vblex"/></r></p></e>
+      
       
       
       
