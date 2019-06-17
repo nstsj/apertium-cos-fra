@@ -103,12 +103,10 @@
       <e><p><l>Jean<s n="np"/><s n="m"/></l><r>Jean<s n="np"/><s n="m"/></r></p></e>
       <e><p><l>e<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
       <e><p><l>Marie<s n="np"/><s n="f"/></l><r>Marie<s n="np"/><s n="f"/></r></p></e>
-      <e><p><l>esse<s n="vbser"/></l><r>être<s n="vbser"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>dans<s n="pr"/></r></p></e>
       <e><p><l>u<s n="det"/></l><r>le<s n="det"/></r></p></e>
       <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ellu<s n="prn"/></l><r>il<s n="prn"/></r></p></e>
-      <e><p><l>faci<s n="vblex"/></l><r>faire<s n="vblex"/></r></p></e>
       <e><p><l>bellu<s n="adv"/></l><r>beau<s n="adv"/></r></p></e>
       <e><p><l>oghje<s n="adv"/></l><r>aujourd'hui<s n="adv"/></r></p></e>
       <e><p><l>assai<s n="preadv"/></l><r>très<s n="preadv"/></r></p></e>
@@ -236,6 +234,363 @@
       <e><p><l>cumbatte<s n="vblex"/></l><r>combattre<s n="vblex"/></r></p></e>
       <e><p><l>cumprà<s n="vblex"/></l><r>acheter<s n="vblex"/></r></p></e>
       <e><p><l>cunduce<s n="vblex"/></l><r>conduire<s n="vblex"/></r></p></e>
+      
+      <e><p><l>cunsente<s n="vblex"/></l><r>consentir<s n="vblex"/></r></p></e>
+      <e><p><l>cuntà<s n="vblex"/></l><r>compter<s n="vblex"/></r></p></e>
+      <e><p><l>cuntà<s n="vblex"/></l><r>raconter<s n="vblex"/></r></p></e>
+      <e><p><l>cuntradì<s n="vblex"/></l><r>contredire<s n="vblex"/></r></p></e>
+      <e><p><l>curà<s n="vblex"/></l><r>surveiller<s n="vblex"/></r></p></e>
+      <e><p><l>curà<s n="vblex"/></l><r>soigner<s n="vblex"/></r></p></e>
+      <e><p><l>currege<s n="vblex"/></l><r>corriger<s n="vblex"/></r></p></e>
+      <e><p><l>currompe<s n="vblex"/></l><r>corrompe<s n="vblex"/></r></p></e>
+      <e><p><l>custà<s n="vblex"/></l><r>coûter<s n="vblex"/></r></p></e>
+      <e><p><l>custruisce<s n="vblex"/></l><r>construire<s n="vblex"/></r></p></e>
+      <e><p><l>cutrà<s n="vblex"/></l><r>geler<s n="vblex"/></r></p></e>
+      
+      <e><p><l>dà<s n="vblex"/></l><r>donner<s n="vblex"/></r></p></e>
+      <e><p><l>dì<s n="vblex"/></l><r>dire<s n="vblex"/></r></p></e>
+      <e><p><l>difende<s n="vblex"/></l><r>défendre<s n="vblex"/></r></p></e>
+      <e><p><l>digerì<s n="vblex"/></l><r>digérer<s n="vblex"/></r></p></e>
+      <e><p><l>diminuì<s n="vblex"/></l><r>diminuer<s n="vblex"/></r></p></e>
+      <e><p><l>discioglie<s n="vblex"/></l><r>dénouer<s n="vblex"/></r></p></e>
+      <e><p><l>discute<s n="vblex"/></l><r>discuter<s n="vblex"/></r></p></e>
+      <e><p><l>disdì<s n="vblex"/></l><r>dédire<s n="vblex"/></r></p></e>
+      <e><p><l>disfà<s n="vblex"/></l><r>défaire<s n="vblex"/></r></p></e>
+      <e><p><l>dispiace<s n="vblex"/></l><r>déplaire<s n="vblex"/></r></p></e>
+      <e><p><l>dissignà<s n="vblex"/></l><r>dessiner<s n="vblex"/></r></p></e>
+      <e><p><l>distingue<s n="vblex"/></l><r>distinguer<s n="vblex"/></r></p></e>
+      <e><p><l>distribuì<s n="vblex"/></l><r>distribuer<s n="vblex"/></r></p></e>
+      <e><p><l>distruge<s n="vblex"/></l><r>détruire<s n="vblex"/></r></p></e>
+      <e><p><l>dorme<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
+      <e><p><l>dumandà<s n="vblex"/></l><r>demander<s n="vblex"/></r></p></e>
+      <e><p><l>duvè<s n="vblex"/></l><r>devoir<s n="vblex"/></r></p></e>
+      
+      <e><p><l>eleghje<s n="vblex"/></l><r>élire<s n="vblex"/></r></p></e>
+      <e><p><l>empie<s n="vblex"/></l><r>remplir<s n="vblex"/></r></p></e>
+      <e><p><l>entre<s n="vblex"/></l><r>entrer<s n="vblex"/></r></p></e>
+      <e><p><l>esce<s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+      <e><p><l>esige<s n="vblex"/></l><r>exiger<s n="vblex"/></r></p></e>
+      <e><p><l>esiste<s n="vblex"/></l><r>exister<s n="vblex"/></r></p></e>
+      <e><p><l>esse<s n="vbser"/></l><r>être<s n="vbser"/></r></p></e>
+      
+      <e><p><l>fà<s n="vblex"/></l><r>faire<s n="vblex"/></r></p></e>
+      <e><p><l>falà<s n="vblex"/></l><r>descendre<s n="vblex"/></r></p></e>
+      <e><p><l>fascià<s n="vblex"/></l><r>bander<s n="vblex"/></r></p></e>
+      <e><p><l>fiatà<s n="vblex"/></l><r>respirer<s n="vblex"/></r></p></e>
+      <e><p><l>fiatà<s n="vblex"/></l><r>souffler<s n="vblex"/></r></p></e>
+      <e><p><l>fiatà<s n="vblex"/></l><r>parler<s n="vblex"/></r></p></e>
+      <e><p><l>ficcà<s n="vblex"/></l><r>enfoncer<s n="vblex"/></r></p></e>
+      <e><p><l>finì<s n="vblex"/></l><r>finir<s n="vblex"/></r></p></e>
+      <e><p><l>firmà<s n="vblex"/></l><r>rester<s n="vblex"/></r></p></e>
+      <!--check this one -->
+      
+      <e><p><l>fiscà<s n="vblex"/></l><r>siffler<s n="vblex"/></r></p></e>
+      <!--check this one -->
+      <e><p><l>fiurì<s n="vblex"/></l><r>fleurir<s n="vblex"/></r></p></e>
+      <e><p><l>fraià<s n="vblex"/></l><r>se ruer sur<s n="vblex"/></r></p></e>
+      <e><p><l>fraià<s n="vblex"/></l><r>empoigner<s n="vblex"/></r></p></e>
+      <e><p><l>fraià<s n="vblex"/></l><r>mordre<s n="vblex"/></r></p></e>
+      <e><p><l>francà<s n="vblex"/></l><r>franchir<s n="vblex"/></r></p></e>
+      <e><p><l>francà<s n="vblex"/></l><r>traverser<s n="vblex"/></r></p></e>
+      <e><p><l>frità<s n="vblex"/></l><r>refroidir<s n="vblex"/></r></p></e>
+      <!--check this one, is it ok for just 'froidir'? -->
+      
+      <e><p><l>fughje<s n="vblex"/></l><r>fuir<s n="vblex"/></r></p></e>
+      <e><p><l>fumà<s n="vblex"/></l><r>fumer<s n="vblex"/></r></p></e>
+      <e><p><l>furzà<s n="vblex"/></l><r>forcer<s n="vblex"/></r></p></e>
+      <e><p><l>furzà<s n="vblex"/></l><r>violenter<s n="vblex"/></r></p></e>
+      <e><p><l>frighje<s n="vblex"/></l><r>frire<s n="vblex"/></r></p></e>
+      <e><p><l>frighje<s n="vblex"/></l><r> faire frire<s n="vblex"/></r></p></e>
+      
+      <e><p><l>galuppà<s n="vblex"/></l><r>galopper<s n="vblex"/></r></p></e>
+      <e><p><l>ghjaccià<s n="vblex"/></l><r>glacer<s n="vblex"/></r></p></e>
+      <e><p><l>ghjastimà<s n="vblex"/></l><r>maudire<s n="vblex"/></r></p></e>
+      <e><p><l>ghjittà<s n="vblex"/></l><r>jeter<s n="vblex"/></r></p></e>
+      <e><p><l>ghjucà<s n="vblex"/></l><r>jouer<s n="vblex"/></r></p></e>
+      <e><p><l>ghjunghje<s n="vblex"/></l><r>arriver<s n="vblex"/></r></p></e>
+      <e><p><l>girà<s n="vblex"/></l><r>tourner<s n="vblex"/></r></p></e>
+      <e><p><l>girà<s n="vblex"/></l><r>parcourir<s n="vblex"/></r></p></e>
+      <!--check this one for typos in the original dict-->
+      
+      <e><p><l>guarantì<s n="vblex"/></l><r>guarantir<s n="vblex"/></r></p></e>
+      <e><p><l>guardà<s n="vblex"/></l><r>regarder<s n="vblex"/></r></p></e>
+      <!--check this one -->
+      <e><p><l>guarì<s n="vblex"/></l><r>guérir<s n="vblex"/></r></p></e>
+      <e><p><l>guastà<s n="vblex"/></l><r>gâter<s n="vblex"/></r></p></e>
+      <e><p><l>guastà<s n="vblex"/></l><r>gâcher<s n="vblex"/></r></p></e>
+      
+      <e><p><l>imbastardì<s n="vblex"/></l><r>abâtardir<s n="vblex"/></r></p></e>
+      <e><p><l>imbianchì<s n="vblex"/></l><r>blanchir<s n="vblex"/></r></p></e>
+      <e><p><l>imbriacà<s n="vblex"/></l><r>saouler<s n="vblex"/></r></p></e>
+      <e><p><l>impristà<s n="vblex"/></l><r>prêter<s n="vblex"/></r></p></e>
+      <e><p><l>impristà<s n="vblex"/></l><r>emprunter<s n="vblex"/></r></p></e>
+      <e><p><l>incantà<s n="vblex"/></l><r>enchanter<s n="vblex"/></r></p></e>
+      <e><p><l>incruccà<s n="vblex"/></l><r>tendre<s n="vblex"/></r></p></e>
+      <e><p><l>incruccà<s n="vblex"/></l><r>dresser<s n="vblex"/></r></p></e>
+      <e><p><l>incruscià<s n="vblex"/></l><r>mouiller<s n="vblex"/></r></p></e>
+      <e><p><l>incruscià<s n="vblex"/></l><r>tremper<s n="vblex"/></r></p></e>
+      <e><p><l>indibbulì<s n="vblex"/></l><r>affaiblir<s n="vblex"/></r></p></e>
+      <e><p><l>induvinà<s n="vblex"/></l><r>deviner<s n="vblex"/></r></p></e>
+      <e><p><l>infrugnà<s n="vblex"/></l><r>pousser<s n="vblex"/></r></p></e>
+      <e><p><l>infrugnà<s n="vblex"/></l><r>fourrer<s n="vblex"/></r></p></e>
+      <e><p><l>infurnà<s n="vblex"/></l><r>mettre au four<s n="vblex"/></r></p></e>
+      <e><p><l>ingrandà<s n="vblex"/></l><r>grandir<s n="vblex"/></r></p></e>
+      <e><p><l>inguffì<s n="vblex"/></l><r>enlaidir<s n="vblex"/></r></p></e>
+      <e><p><l>ingutuppà<s n="vblex"/></l><r>envelopper<s n="vblex"/></r></p></e>
+      <e><p><l>innacquà<s n="vblex"/></l><r>arroser<s n="vblex"/></r></p></e>
+      <e><p><l>insignà<s n="vblex"/></l><r>enseigner<s n="vblex"/></r></p></e>
+      <e><p><l>intarrompe<s n="vblex"/></l><r>interrompre<s n="vblex"/></r></p></e>
+      <e><p><l>intimidì<s n="vblex"/></l><r>intimider<s n="vblex"/></r></p></e>
+      <e><p><l>inzitillì<s n="vblex"/></l><r>rajeunir<s n="vblex"/></r></p></e>
+      <e><p><l>lampà<s n="vblex"/></l><r>lancer<s n="vblex"/></r></p></e>
+      <e><p><l>lascià<s n="vblex"/></l><r>laisser<s n="vblex"/></r></p></e>
+      <e><p><l>lavà<s n="vblex"/></l><r>laver<s n="vblex"/></r></p></e>
+      
+      <e><p><l>leghje<s n="vblex"/></l><r>lire<s n="vblex"/></r></p></e>
+      <e><p><l>ligà<s n="vblex"/></l><r>attacher<s n="vblex"/></r></p></e>
+      <e><p><l>luce<s n="vblex"/></l><r>luire<s n="vblex"/></r></p></e>
+      <e><p><l>mancà<s n="vblex"/></l><r>manquer<s n="vblex"/></r></p></e>
+      <e><p><l>mandà<s n="vblex"/></l><r>envoyer<s n="vblex"/></r></p></e>
+      <e><p><l>manghjà<s n="vblex"/></l><r>manger<s n="vblex"/></r></p></e>
+      <e><p><l>mette<s n="vblex"/></l><r>mettre<s n="vblex"/></r></p></e>
+      <e><p><l>minà<s n="vblex"/></l><r>frapper<s n="vblex"/></r></p></e>
+      <e><p><l>minà<s n="vblex"/></l><r>mélanger<s n="vblex"/></r></p></e>
+      <e><p><l>minaccià<s n="vblex"/></l><r>menacer<s n="vblex"/></r></p></e>
+      <e><p><l>minaccià<s n="vblex"/></l><r>être menançant<s n="vblex"/></r></p></e>
+      <e><p><l>mirà<s n="vblex"/></l><r>contempler<s n="vblex"/></r></p></e>
+      <e><p><l>mirà<s n="vblex"/></l><r>admirer<s n="vblex"/></r></p></e>
+      <e><p><l>mirà<s n="vblex"/></l><r>viser<s n="vblex"/></r></p></e>
+      <e><p><l>morde<s n="vblex"/></l><r>mordre<s n="vblex"/></r></p></e>
+      <e><p><l>more<s n="vblex"/></l><r>mourir<s n="vblex"/></r></p></e>
+      <e><p><l>move<s n="vblex"/></l><r>bouger<s n="vblex"/></r></p></e>
+      <e><p><l>mughjà<s n="vblex"/></l><r>crier<s n="vblex"/></r></p></e>
+      <e><p><l>munghje<s n="vblex"/></l><r>traire<s n="vblex"/></r></p></e>
+      
+      <e><p><l>nasce<s n="vblex"/></l><r>naître<s n="vblex"/></r></p></e>
+      <e><p><l>nivà<s n="vblex"/></l><r>neiger<s n="vblex"/></r></p></e>
+      <e><p><l>niviscà<s n="vblex"/></l><r>neiger légèrement<s n="vblex"/></r></p></e>
+      <e><p><l>nivulà<s n="vblex"/></l><r>couvrir de nuages<s n="vblex"/></r></p></e>
+      <e><p><l>nutrì<s n="vblex"/></l><r>nourrir<s n="vblex"/></r></p></e>
+      
+      <e><p><l>opprime<s n="vblex"/></l><r>opprimer<s n="vblex"/></r></p></e>
+      <e><p><l>opprime<s n="vblex"/></l><r>accabler<s n="vblex"/></r></p></e>
+      <e><p><l>ostruisce<s n="vblex"/></l><r>obstruer<s n="vblex"/></r></p></e>
+      
+      <e><p><l>pagà<s n="vblex"/></l><r>payer<s n="vblex"/></r></p></e>
+      <e><p><l>pare<s n="vblex"/></l><r>sembler<s n="vblex"/></r></p></e>
+      <e><p><l>pare<s n="vblex"/></l><r>paraître<s n="vblex"/></r></p></e>
+      <e><p><l>parlà<s n="vblex"/></l><r>parler<s n="vblex"/></r></p></e>
+      <e><p><l>parte<s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
+      <e><p><l>parturì<s n="vblex"/></l><r>enfanter<s n="vblex"/></r></p></e>
+      <e><p><l>pasce<s n="vblex"/></l><r>brouter<s n="vblex"/></r></p></e>
+      <e><p><l>pasce<s n="vblex"/></l><r>paître<s n="vblex"/></r></p></e>
+      <e><p><l>paspà<s n="vblex"/></l><r>goûer<s n="vblex"/></r></p></e>
+      <e><p><l>paspà<s n="vblex"/></l><r>palper<s n="vblex"/></r></p></e>
+      <e><p><l>paspà<s n="vblex"/></l><r>recevoir une volée<s n="vblex"/></r></p></e>
+      <e><p><l>passà<s n="vblex"/></l><r>passer<s n="vblex"/></r></p></e>
+      <e><p><l>pate<s n="vblex"/></l><r>souffrir<s n="vblex"/></r></p></e>
+      <e><p><l>pate<s n="vblex"/></l><r>endurer<s n="vblex"/></r></p></e>
+      <e><p><l>perde<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
+      <e><p><l>permette<s n="vblex"/></l><r>permettre<s n="vblex"/></r></p></e>
+      <e><p><l>piace<s n="vblex"/></l><r>plaire<s n="vblex"/></r></p></e>
+      <e><p><l>piantà<s n="vblex"/></l><r>arrêter<s n="vblex"/></r></p></e>
+      <e><p><l>piattà<s n="vblex"/></l><r>cacher<s n="vblex"/></r></p></e>
+      <e><p><l>pienghje<s n="vblex"/></l><r>pleurer<s n="vblex"/></r></p></e>
+      <e><p><l>piglià<s n="vblex"/></l><r>prendre<s n="vblex"/></r></p></e>
+      <e><p><l>pinsà<s n="vblex"/></l><r>penser<s n="vblex"/></r></p></e>
+      <e><p><l>piove<s n="vblex"/></l><r>pleuvoir<s n="vblex"/></r></p></e>
+      <e><p><l>pisà<s n="vblex"/></l><r>soulever<s n="vblex"/></r></p></e>
+      <e><p><l>piscà<s n="vblex"/></l><r>pêcher<s n="vblex"/></r></p></e>
+      <e><p><l>piscià<s n="vblex"/></l><r>pisser<s n="vblex"/></r></p></e>
+      <e><p><l>piscià<s n="vblex"/></l><r>pleuvoir<s n="vblex"/></r></p></e>
+      <e><p><l>pità<s n="vblex"/></l><r>péter<s n="vblex"/></r></p></e>
+      <e><p><l>pittinà<s n="vblex"/></l><r>peigner<s n="vblex"/></r></p></e>
+      <e><p><l>pittinà<s n="vblex"/></l><r>coiffer<s n="vblex"/></r></p></e>
+      <e><p><l>piuvicinà<s n="vblex"/></l><r>pleuvioter<s n="vblex"/></r></p></e>
+      <e><p><l>pone<s n="vblex"/></l><r>poser<s n="vblex"/></r></p></e>
+      <!--check this one -->
+      
+      <e><p><l>prende<s n="vblex"/></l><r>prendre<s n="vblex"/></r></p></e>
+      <e><p><l>pridì<s n="vblex"/></l><r>prédir<s n="vblex"/></r></p></e>
+      <e><p><l>prifirì<s n="vblex"/></l><r>préferer<s n="vblex"/></r></p></e>
+      <e><p><l>pristà<s n="vblex"/></l><r>prêter<s n="vblex"/></r></p></e>
+      <e><p><l>pruduce<s n="vblex"/></l><r>produire<s n="vblex"/></r></p></e>
+      <e><p><l>prufumà<s n="vblex"/></l><r>parfumer<s n="vblex"/></r></p></e>
+      <e><p><l>prumette<s n="vblex"/></l><r>promettre<s n="vblex"/></r></p></e>
+      <e><p><l>pruminà<s n="vblex"/></l><r>promener<s n="vblex"/></r></p></e>
+      <e><p><l>prutege<s n="vblex"/></l><r>protéger<s n="vblex"/></r></p></e>
+      <e><p><l>pruvà<s n="vblex"/></l><r>essayer<s n="vblex"/></r></p></e>
+      <e><p><l>pudè<s n="vblex"/></l><r>pouvoir<s n="vblex"/></r></p></e>
+      <e><p><l>pulzà<s n="vblex"/></l><r>égorger<s n="vblex"/></r></p></e>
+      <e><p><l>pulzà<s n="vblex"/></l><r>saigner<s n="vblex"/></r></p></e>
+      <e><p><l>punghje<s n="vblex"/></l><r>piquer<s n="vblex"/></r></p></e>
+      <e><p><l>punì<s n="vblex"/></l><r>punir<s n="vblex"/></r></p></e>
+      <e><p><l>purtà<s n="vblex"/></l><r>amener<s n="vblex"/></r></p></e>
+      <e><p><l>purtà<s n="vblex"/></l><r>véhiculer<s n="vblex"/></r></p></e>
+      <e><p><l>purtà<s n="vblex"/></l><r>amener<s n="vblex"/></r></p></e>
+      <e><p><l>pusà<s n="vblex"/></l><r>être essis<s n="vblex"/></r></p></e>
+      <e><p><l>pusà<s n="vblex"/></l><r>s'asseoir<s n="vblex"/></r></p></e>
+      <e><p><l>pusà<s n="vblex"/></l><r>reposer<s n="vblex"/></r></p></e>
+      <e><p><l>puzzà<s n="vblex"/></l><r>puer<s n="vblex"/></r></p></e>
+      
+      <e><p><l>ragiunà<s n="vblex"/></l><r>discuter<s n="vblex"/></r></p></e>
+      <e><p><l>rende<s n="vblex"/></l><r>rendre<s n="vblex"/></r></p></e>
+      <e><p><l>restà<s n="vblex"/></l><r>rester<s n="vblex"/></r></p></e>
+      <e><p><l>ride<s n="vblex"/></l><r>rire<s n="vblex"/></r></p></e>
+      <e><p><l>riflette<s n="vblex"/></l><r>réfléchir<s n="vblex"/></r></p></e>
+      <e><p><l>rimette<s n="vblex"/></l><r>remettre<s n="vblex"/></r></p></e>
+      <e><p><l>rinfriscà<s n="vblex"/></l><r>rafraîchir<s n="vblex"/></r></p></e>
+      <e><p><l>riparte<s n="vblex"/></l><r>repartir<s n="vblex"/></r></p></e>
+      <e><p><l>risicà<s n="vblex"/></l><r>risquer<s n="vblex"/></r></p></e>
+      <e><p><l>risponde<s n="vblex"/></l><r>répondre<s n="vblex"/></r></p></e>
+      <e><p><l>ristabilì<s n="vblex"/></l><r>rétablir<s n="vblex"/></r></p></e>
+      <e><p><l>ristituì<s n="vblex"/></l><r>restituer<s n="vblex"/></r></p></e>
+      <e><p><l>ritribuì<s n="vblex"/></l><r>rétribuer<s n="vblex"/></r></p></e>
+      <e><p><l>riunì<s n="vblex"/></l><r>réunir<s n="vblex"/></r></p></e>
+      <e><p><l>rompe<s n="vblex"/></l><r>casser<s n="vblex"/></r></p></e>
+      
+      <e><p><l>saltà<s n="vblex"/></l><r>sauter<s n="vblex"/></r></p></e>
+      <e><p><l>salutà<s n="vblex"/></l><r>saluer<s n="vblex"/></r></p></e>
+      <e><p><l>sapè<s n="vblex"/></l><r>savoir<s n="vblex"/></r></p></e>
+      <e><p><l>sbruglià<s n="vblex"/></l><r>démêler<s n="vblex"/></r></p></e>
+      <e><p><l>sbuccà<s n="vblex"/></l><r>sortir de<s n="vblex"/></r></p></e>
+      <e><p><l>sbuccà<s n="vblex"/></l><r>déboucher sur<s n="vblex"/></r></p></e>
+      <!-- check rules about prepositional verbs-->
+      
+      <e><p><l>sbuchjà<s n="vblex"/></l><r>éplucher<s n="vblex"/></r></p></e>
+      <e><p><l>sbuchjà<s n="vblex"/></l><r>écosser<s n="vblex"/></r></p></e>
+      <e><p><l>scaldà<s n="vblex"/></l><r>chauffer<s n="vblex"/></r></p></e>
+      <e><p><l>scappà<s n="vblex"/></l><r>échapper<s n="vblex"/></r></p></e>
+      <e><p><l>sceglie<s n="vblex"/></l><r>choisir<s n="vblex"/></r></p></e>
+      <e><p><l>sciaccà<s n="vblex"/></l><r>écraser<s n="vblex"/></r></p></e>
+      <e><p><l>sciaccà<s n="vblex"/></l><r>casser<s n="vblex"/></r></p></e>
+      <e><p><l>sciaccà<s n="vblex"/></l><r>dévorer<s n="vblex"/></r></p></e>
+      <e><p><l>sciaccà<s n="vblex"/></l><r>donner<s n="vblex"/></r></p></e>
+      <e><p><l>sciallà<s n="vblex"/></l><r>se la couler douce<s n="vblex"/></r></p></e>
+      <!-- check this one -->
+      
+      <e><p><l>sciappà<s n="vblex"/></l><r>casser<s n="vblex"/></r></p></e>
+      <e><p><l>sciappà<s n="vblex"/></l><r>rompre<s n="vblex"/></r></p></e>
+      <e><p><l>sciappà<s n="vblex"/></l><r>briser<s n="vblex"/></r></p></e>
+      <e><p><l>sciappà<s n="vblex"/></l><r>éclater<s n="vblex"/></r></p></e>
+      <e><p><l>scioglie<s n="vblex"/></l><r>détacher<s n="vblex"/></r></p></e>
+      <e><p><l>scrive<s n="vblex"/></l><r>écrire<s n="vblex"/></r></p></e>
+      <e><p><l>sculiscià<s n="vblex"/></l><r>glisser<s n="vblex"/></r></p></e>
+      <e><p><l>scumbatte<s n="vblex"/></l><r>bricoler<s n="vblex"/></r></p></e>
+      <e><p><l>scumbatte<s n="vblex"/></l><r>s'affairer<s n="vblex"/></r></p></e>
+      <e><p><l>scumette<s n="vblex"/></l><r>parier<s n="vblex"/></r></p></e>
+      <e><p><l>scuntrà<s n="vblex"/></l><r>rencontrer<s n="vblex"/></r></p></e>
+      <e><p><l>scuntrà<s n="vblex"/></l><r>heurter<s n="vblex"/></r></p></e>
+      <e><p><l>scurdà<s n="vblex"/></l><r>oublier<s n="vblex"/></r></p></e>
+      <e><p><l>scurdà<s n="vblex"/></l><r>omettre<s n="vblex"/></r></p></e>
+      <e><p><l>sdrughje<s n="vblex"/></l><r>dissoudre<s n="vblex"/></r></p></e>
+      <e><p><l>sente<s n="vblex"/></l><r>sentir<s n="vblex"/></r></p></e>
+      <e><p><l>sente<s n="vblex"/></l><r>entendre<s n="vblex"/></r></p></e>
+      <e><p><l>serve<s n="vblex"/></l><r>servir<s n="vblex"/></r></p></e>
+      <e><p><l>sfiatà<s n="vblex"/></l><r>s'éssouffler<s n="vblex"/></r></p></e>
+      <e><p><l>sfiatà<s n="vblex"/></l><r>s'époumoner<s n="vblex"/></r></p></e>
+      <e><p><l>sfurzà<s n="vblex"/></l><r>forcer<s n="vblex"/></r></p></e>
+      <e><p><l>siccà<s n="vblex"/></l><r>sécher<s n="vblex"/></r></p></e>
+      <e><p><l>smachjà<s n="vblex"/></l><r>déboiser<s n="vblex"/></r></p></e>
+      <e><p><l>smachjà<s n="vblex"/></l><r>démaquiser<s n="vblex"/></r></p></e>
+      <e><p><l>soffre<s n="vblex"/></l><r>souffrir<s n="vblex"/></r></p></e>
+      <e><p><l>sorte<s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+      <e><p><l>sparghje<s n="vblex"/></l><r>répandre<s n="vblex"/></r></p></e>
+      <e><p><l>sparghje<s n="vblex"/></l><r>étendre<s n="vblex"/></r></p></e>
+      <e><p><l>sparte<s n="vblex"/></l><r>partager<s n="vblex"/></r></p></e>
+      <e><p><l>spassighjà<s n="vblex"/></l><r>se promener<s n="vblex"/></r></p></e>
+      <e><p><l>spatanscià<s n="vblex"/></l><r>haleter<s n="vblex"/></r></p></e>
+      <e><p><l>spenghje<s n="vblex"/></l><r>éteindre<s n="vblex"/></r></p></e>
+      <e><p><l>spianà<s n="vblex"/></l><r>raboter<s n="vblex"/></r></p></e>
+      <e><p><l>spidì<s n="vblex"/></l><r>expédier<s n="vblex"/></r></p></e>
+      <e><p><l>spiumà<s n="vblex"/></l><r>plumer<s n="vblex"/></r></p></e>
+      <e><p><l>sprime<s n="vblex"/></l><r>exprimer<s n="vblex"/></r></p></e>
+      <e><p><l>stà<s n="vblex"/></l><r>rester<s n="vblex"/></r></p></e>
+      <e><p><l>stintinà<s n="vblex"/></l><r>éventrer<s n="vblex"/></r></p></e>
+      <e><p><l>stintinà<s n="vblex"/></l><r>étriper<s n="vblex"/></r></p></e>
+      <e><p><l>strappà<s n="vblex"/></l><r>déchirer<s n="vblex"/></r></p></e>
+      <e><p><l>strazià<s n="vblex"/></l><r>déchirer<s n="vblex"/></r></p></e>
+      <!--chrck this one -->
+      
+      <e><p><l>stringhje<s n="vblex"/></l><r>serrer<s n="vblex"/></r></p></e>
+      <e><p><l>struì<s n="vblex"/></l><r>instruire<s n="vblex"/></r></p></e>
+      <e><p><l>stuzzicà<s n="vblex"/></l><r>taquiner<s n="vblex"/></r></p></e>
+      <e><p><l>stuzzicà<s n="vblex"/></l><r>exciter<s n="vblex"/></r></p></e>
+      <e><p><l>stuzzicà<s n="vblex"/></l><r>énerver<s n="vblex"/></r></p></e>
+      <e><p><l>sunà<s n="vblex"/></l><r>sonner<s n="vblex"/></r></p></e>
+      <e><p><l>supprime<s n="vblex"/></l><r>supprimer<s n="vblex"/></r></p></e>
+      
+      <e><p><l>taccà<s n="vblex"/></l><r>tacher<s n="vblex"/></r></p></e>
+      <e><p><l>taglià<s n="vblex"/></l><r>couper<s n="vblex"/></r></p></e>
+      <e><p><l>tappà<s n="vblex"/></l><r>boucher<s n="vblex"/></r></p></e>
+      <e><p><l>tastà<s n="vblex"/></l><r>goûter<s n="vblex"/></r></p></e>
+      <e><p><l>teme<s n="vblex"/></l><r>craindre<s n="vblex"/></r></p></e>
+      <e><p><l>tene<s n="vblex"/></l><r>tenir<s n="vblex"/></r></p></e>
+      <e><p><l>tichjà<s n="vblex"/></l><r>rassasier<s n="vblex"/></r></p></e>
+      <e><p><l>tirà<s n="vblex"/></l><r>souffler<s n="vblex"/></r></p></e>
+      <e><p><l>tonde<s n="vblex"/></l><r>tondre<s n="vblex"/></r></p></e>
+      <e><p><l>torce<s n="vblex"/></l><r>tordre<s n="vblex"/></r></p></e>
+      <e><p><l>tradì<s n="vblex"/></l><r>trahir<s n="vblex"/></r></p></e>
+      <e><p><l>trae<s n="vblex"/></l><r>tirer<s n="vblex"/></r></p></e>
+      <e><p><l>trae<s n="vblex"/></l><r>tracter<s n="vblex"/></r></p></e>
+      <e><p><l>tramachjulassi<s n="vblex"/></l><r>se cacher dans le maquis<s n="vblex"/></r></p></e>
+      <e><p><l>tramutà<s n="vblex"/></l><r>déplacer<s n="vblex"/></r></p></e>
+      <e><p><l>tramutà<s n="vblex"/></l><r>changer<s n="vblex"/></r></p></e>
+      <e><p><l>tramutà<s n="vblex"/></l><r>transformer<s n="vblex"/></r></p></e>
+      <e><p><l>trascinà<s n="vblex"/></l><r>traîner<s n="vblex"/></r></p></e>
+      <e><p><l>travaglià<s n="vblex"/></l><r>travailler<s n="vblex"/></r></p></e>
+      <e><p><l>tribbià<s n="vblex"/></l><r>battre<s n="vblex"/></r></p></e>
+      <!-- le blé-->
+      
+      <e><p><l>trinnicà<s n="vblex"/></l><r>remuer<s n="vblex"/></r></p></e>
+      <e><p><l>trinnicà<s n="vblex"/></l><r>agiter<s n="vblex"/></r></p></e>
+      <e><p><l>truvà<s n="vblex"/></l><r>trouver<s n="vblex"/></r></p></e>
+      <e><p><l>tuccà<s n="vblex"/></l><r>toucher<s n="vblex"/></r></p></e>
+      <e><p><l>tumbà<s n="vblex"/></l><r>abattre<s n="vblex"/></r></p></e>
+      <e><p><l>tumbà<s n="vblex"/></l><r>tuer<s n="vblex"/></r></p></e>
+      <e><p><l>turnà<s n="vblex"/></l><r>revenir<s n="vblex"/></r></p></e>
+      
+      <e><p><l>ubbidì<s n="vblex"/></l><r>obéir<s n="vblex"/></r></p></e>
+      <e><p><l>vede<s n="vblex"/></l><r>voir<s n="vblex"/></r></p></e>
+      <e><p><l>vende<s n="vblex"/></l><r>vendre<s n="vblex"/></r></p></e>
+      <e><p><l>vene<s n="vblex"/></l><r>venir<s n="vblex"/></r></p></e>
+      <e><p><l>veste<s n="vblex"/></l><r>vêtir<s n="vblex"/></r></p></e>
+      <e><p><l>veste<s n="vblex"/></l><r>habiller<s n="vblex"/></r></p></e>
+      <e><p><l>viaghjà<s n="vblex"/></l><r>voyager<s n="vblex"/></r></p></e>
+      <e><p><l>viaghjà<s n="vblex"/></l><r>cheminer<s n="vblex"/></r></p></e>
+      <e><p><l>viaghjà<s n="vblex"/></l><r>marcher<s n="vblex"/></r></p></e>
+      <e><p><l>vince<s n="vblex"/></l><r>vaincre<s n="vblex"/></r></p></e>
+      <e><p><l>vintà<s n="vblex"/></l><r>venter<s n="vblex"/></r></p></e>
+      <e><p><l>vintulà<s n="vblex"/></l><r>ventiler<s n="vblex"/></r></p></e>
+      <e><p><l>vintulà<s n="vblex"/></l><r>faire un petit vent<s n="vblex"/></r></p></e>
+      <e><p><l>viutà<s n="vblex"/></l><r>vider<s n="vblex"/></r></p></e>
+      <e><p><l>vulà<s n="vblex"/></l><r>voler<s n="vblex"/></r></p></e>
+      <e><p><l>vulè<s n="vblex"/></l><r>vouloir<s n="vblex"/></r></p></e>
+      <e><p><l>vulècci<s n="vblex"/></l><r>falloir<s n="vblex"/></r></p></e>
+      <e><p><l>vultà<s n="vblex"/></l><r>revenir<s n="vblex"/></r></p></e>
+      <e><p><l>vultà<s n="vblex"/></l><r>retourner<s n="vblex"/></r></p></e>
+      <e><p><l>vultà<s n="vblex"/></l><r>tourner<s n="vblex"/></r></p></e>
+      
+     
+      
+    
+      
+      <!--NOUNS -->
+      
+      
+      <!--PRONOUNS TEMPLATE-->
+      
+      
+      <!--PARTICLES TEMPLATE-->
+      
+      
+      <!--GERUNDS TEMPLATE-->
+      
+      <!--ADJECTIVES TEMPLATE-->
+      
+      <!--ADVERBS TEMPLATE-->
+      
+      <!--ADVERBIAL MODIFIERS TEMPLATE-->
       
       
       
