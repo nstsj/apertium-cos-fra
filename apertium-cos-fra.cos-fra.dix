@@ -99,28 +99,7 @@
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
       <!-- Corsican to French -->
-      
-      <e><p><l>Jean<s n="np"/><s n="m"/></l><r>Jean<s n="np"/><s n="m"/></r></p></e>
-      <e><p><l>e<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
-      <e><p><l>Marie<s n="np"/><s n="f"/></l><r>Marie<s n="np"/><s n="f"/></r></p></e>
-      <e><p><l>in<s n="pr"/></l><r>dans<s n="pr"/></r></p></e>
-      <e><p><l>u<s n="det"/></l><r>le<s n="det"/></r></p></e>
-      <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ellu<s n="prn"/></l><r>il<s n="prn"/></r></p></e>
-      <e><p><l>bellu<s n="adv"/></l><r>beau<s n="adv"/></r></p></e>
-      <e><p><l>oghje<s n="adv"/></l><r>aujourd'hui<s n="adv"/></r></p></e>
-      <e><p><l>assai<s n="preadv"/></l><r>très<s n="preadv"/></r></p></e>
-      <e><p><l>caud<s n="adv"/></l><r>chaud<s n="adv"/></r></p></e>
-      <e><p><l>ma<s n="cnjcoo"/></l><r>mais<s n="cnjcoo"/></r></p></e>
-      <e><p><l>eri<s n="adv"/></l><r>hier<s n="adv"/></r></p></e>
-      <e><p><l>freddo<s n="adv"/></l><r>froid<s n="adv"/></r></p></e>
-      <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-      <e><p><l>un<s n="det"/></l><r>un<s n="det"/></r></p></e>
-      <e><p><l>per<s n="pr"/></l><r>pour<s n="pr"/></r></p></e>
-      <e><p><l>cun<s n="pr"/></l><r>avec<s n="pr"/></r></p></e> <!-- add rules for cu/cù -->
-      <e><p><l>Paris<s n="np"/></l><r>Paris<s n="np"/></r></p></e>
-      <e><p><l>Corsica<s n="np"/></l><r>Corse<s n="np"/></r></p></e>
-      
+    
       <!-- VERBS -->
       
       <e><p><l>abbaghjà<s n="vblex"/></l><r>aboyer<s n="vblex"/></r></p></e>
@@ -571,32 +550,123 @@
       <e><p><l>vultà<s n="vblex"/></l><r>retourner<s n="vblex"/></r></p></e>
       <e><p><l>vultà<s n="vblex"/></l><r>tourner<s n="vblex"/></r></p></e>
       
-     
-      
-    
-      
-      <!--NOUNS -->
-      
-      
-      <!--PRONOUNS TEMPLATE-->
-      
-      
+         
       <!--PARTICLES TEMPLATE-->
       
-      
       <!--GERUNDS TEMPLATE-->
+
+      <!--NOUNS -->
+       <e><p><l>abba<s n="n"/><s n="f"/></l><r>abeille<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>acqua<s n="n"/><s n="f"/></l><r>eau<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>acula<s n="n"/><s n="m"/></l><r>aigle<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>amicu<s n="n"/><s n="f"/></l><r>amie<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>amicu<s n="n"/><s n="m"/></l><r>ami<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>annu<s n="n"/><s n="f"/></l><r>année<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>austu<s n="n"/><s n="f"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>aprili<s n="n"/><s n="m"/></l><r>aril<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mane<s n="n"/><s n="m"/></l><r>matin<s n="n"/><s n="m"/></r></p></e>  
+       <e><p><l>meziornu<s n="n"/><s n="m"/></l><r>midi<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sera<s n="n"/><s n="f"/></l><r>soir<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>notte<s n="n"/><s n="f"/></l><r>nuit<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ghjornu<s n="n"/><s n="m"/></l><r>jour<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>settimana<s n="n"/><s n="f"/></l><r>semaine<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>mese<s n="n"/><s n="m"/></l><r>mois<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>minutu<s n="n"/><s n="m"/></l><r>minute<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ora<s n="n"/><s n="f"/></l><r>heure<s n="n"/><s n="f"/></r></p></e>
+
+       
+       
+      <!--PROPER NOUNS--> 
+      <e><p><l>Jean<s n="np"/><s n="m"/></l><r>Jean<s n="np"/><s n="m"/></r></p></e>
+      <e><p><l>Marie<s n="np"/><s n="f"/></l><r>Marie<s n="np"/><s n="f"/></r></p></e>
+      <e><p><l>Paris<s n="np"/></l><r>Paris<s n="np"/></r></p></e>
+      <e><p><l>Corsica<s n="np"/></l><r>Corse<s n="np"/></r></p></e>
       
-      <!--ADJECTIVES TEMPLATE-->
+      <!--PRONOUNS-->
+       <e><p><l>chì<s n="prn"/></l><r>quoi<s n="det"/></r></p></e>
+       <e><p><l>ellu<s n="prn"/></l><r>il<s n="prn"/></r></p></e>
+       
       
-      <!--ADVERBS TEMPLATE-->
+      <!--ADJECTIVES-->
       
-      <!--ADVERBIAL MODIFIERS TEMPLATE-->
+      <!--ADVERBS-->
+      <e><p><l>bè<s n="adv"/></l><r>beau<s n="adv"/></r></p></e>
+      <e><p><l>oghje<s n="adv"/></l><r>aujourd'hui<s n="adv"/></r></p></e>
+      <e><p><l>caud<s n="adv"/></l><r>chaud<s n="adv"/></r></p></e>
+      <e><p><l>eri<s n="adv"/></l><r>hier<s n="adv"/></r></p></e>
+      <e><p><l>freddo<s n="adv"/></l><r>froid<s n="adv"/></r></p></e>
+      <e><p><l>dumane<s n="adv"/></l><r>demain<s n="adv"/></r></p></e>
+      <e><p><l>forse<s n="adv"/></l><r>peut-être<s n="adv"/></r></p></e>
       
       
       
+      <!--ADVERBIAL MODIFIERS-->
+      <e><p><l>assai<s n="preadv"/></l><r>très<s n="preadv"/></r></p></e>
       
+      <!--NUMERALS-->
       
+      <e><p><l><s n="num"/></l><r>zéro<s n="num"/></r></p></e>
+      <e><p><l>unu<s n="num"/></l><r>un<s n="num"/></r></p></e>
+      <e><p><l>dui<s n="num"/></l><r>deux<s n="num"/></r></p></e>
+      <e><p><l>trè<s n="num"/></l><r>trois<s n="num"/></r></p></e>
+      <e><p><l>quattru<s n="num"/></l><r>quatre<s n="num"/></r></p></e>
+      <e><p><l>cinqui<s n="num"/></l><r>cinq<s n="num"/></r></p></e>
+      <e><p><l>sei<s n="num"/></l><r>six<s n="num"/></r></p></e>
+      <e><p><l>sette<s n="num"/></l><r>sept<s n="num"/></r></p></e>
+      <e><p><l>ottu<s n="num"/></l><r>huit<s n="num"/></r></p></e>
+      <e><p><l>novi<s n="num"/></l><r>neuf<s n="num"/></r></p></e>
+      <e><p><l>deci<s n="num"/></l><r>dix<s n="num"/></r></p></e>
+      <e><p><l>ùndeci<s n="num"/></l><r>onze<s n="num"/></r></p></e>
+      <e><p><l>òndici<s n="num"/></l><r>onze<s n="num"/></r></p></e>
+      <e><p><l>dòdeci<s n="num"/></l><r>douze<s n="num"/></r></p></e>
+      <e><p><l>dòdici<s n="num"/></l><r>douze<s n="num"/></r></p></e>
+      <e><p><l>trèdici<s n="num"/></l><r>treize<s n="num"/></r></p></e>
+      <e><p><l>trèdeci<s n="num"/></l><r>treize<s n="num"/></r></p></e>
+      <e><p><l>quatòrdeci<s n="num"/></l><r>quatorze<s n="num"/></r></p></e>
+      <e><p><l>quìndeci<s n="num"/></l><r>quinze<s n="num"/></r></p></e>
+      <e><p><l>quìndici<s n="num"/></l><r>quinze<s n="num"/></r></p></e>
+      <e><p><l>sèdeci<s n="num"/></l><r>seize<s n="num"/></r></p></e>
+      <e><p><l>dicessette<s n="num"/></l><r>dix-sept<s n="num"/></r></p></e>
+      <e><p><l>diciassette<s n="num"/></l><r>dex-sept<s n="num"/></r></p></e>
+      <e><p><l>diciottu<s n="num"/></l><r>dix-huit<s n="num"/></r></p></e>
+      <e><p><l>decinove<s n="num"/></l><r>dix-huit<s n="num"/></r></p></e>
+      <e><p><l>dicianove<s n="num"/></l><r>dix-neuf<s n="num"/></r></p></e>
+      <e><p><l>vinti<s n="num"/></l><r>vingt<s n="num"/></r></p></e>
+      <e><p><l>vintunu<s n="num"/></l><r>vingt et un<s n="num"/></r></p></e>
+      <e><p><l>vintidui<s n="num"/></l><r>vingt-deux<s n="num"/></r></p></e>
+      <e><p><l>vintitrè<s n="num"/></l><r>vingt-trois<s n="num"/></r></p></e>
+      <e><p><l>trentu<s n="num"/></l><r>trente<s n="num"/></r></p></e>
+      <e><p><l>quaranta<s n="num"/></l><r>quarante<s n="num"/></r></p></e>
+      <e><p><l>cinquanta<s n="num"/></l><r>cinquant<s n="num"/></r></p></e>
+      <e><p><l>sessenta<s n="num"/></l><r>soixante<s n="num"/></r></p></e>
+      <e><p><l>sissanta<s n="num"/></l><r>soixante-dix<s n="num"/></r></p></e>
+      <e><p><l>settanta<s n="num"/></l><r>soixante-dix<s n="num"/></r></p></e>
+      <e><p><l>sittanta<s n="num"/></l><r>soixante-dix<s n="num"/></r></p></e>
+      <e><p><l>ottanta<s n="num"/></l><r>quatre vingts<s n="num"/></r></p></e>
+      <e><p><l>uttanta<s n="num"/></l><r>quatre vingts<s n="num"/></r></p></e>
+      <e><p><l>novanta<s n="num"/></l><r>quatre vingts dix<s n="num"/></r></p></e>
+      <e><p><l>nuvanta<s n="num"/></l><r>quatre vingts dix<s n="num"/></r></p></e>
+      <e><p><l>centu<s n="num"/></l><r>cent<s n="num"/></r></p></e>
+      <e><p><l>mille<s n="num"/></l><r>mille<s n="num"/></r></p></e>
+      <e><p><l>miliuna<s n="num"/></l><r>million<s n="num"/></r></p></e>
+      <e><p><l>miliardi<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
       
+       <!--PREPOSITIONS-->
+      <e><p><l>per<s n="pr"/></l><r>pour<s n="pr"/></r></p></e>
+      <e><p><l>cun<s n="pr"/></l><r>avec<s n="pr"/></r></p></e>
+      <e><p><l>cu<s n="pr"/></l><r>avec<s n="pr"/></r></p></e>
+      <e><p><l>cù<s n="pr"/></l><r>avec<s n="pr"/></r></p></e>
+      <e><p><l>in<s n="pr"/></l><r>dans<s n="pr"/></r></p></e>
+      <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+      
+       <!--DETERMINERS-->
+      <e><p><l>u<s n="det"/></l><r>le<s n="det"/></r></p></e>
+      <e><p><l>un<s n="det"/></l><r>un<s n="det"/></r></p></e> 
+      
+      <!--CONJUNCTIONS-->
+      <e><p><l>ma<s n="cnjcoo"/></l><r>mais<s n="cnjcoo"/></r></p></e>
+      <e><p><l>e<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
