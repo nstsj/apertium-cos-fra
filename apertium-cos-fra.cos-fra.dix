@@ -597,6 +597,74 @@
        <e><p><l>glutinu<s n="n"/><s n="m"/></l><r>gluten<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>granaghju<s n="n"/><s n="m"/></l><r>grenier<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>granu<s n="n"/><s n="f"/></l><r><s n="n"/>blé<s n="f"/></r></p></e>
+       <e><p><l>iogurtu<s n="n"/><s n="m"/></l><r>yaourt<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>isula<s n="n"/><s n="f"/></l><r>île<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>lettu<s n="n"/><s n="m"/></l><r>lit<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>léttu<s n="n"/><s n="m"/></l><r>lit<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mare<s n="n"/><s n="m"/></l><r>mer<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>libru<s n="n"/><s n="m"/></l><r>livre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mele<s n="n"/><s n="m"/></l><r>miel<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>merru<s n="n"/><s n="m"/></l><r>maire<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>merru<s n="n"/><s n="m"/></l><r>mairesse<s n="n"/><s n="f"/></r></p></e>
+       <!-- check this one-->
+       <e><p><l>mese<s n="n"/><s n="m"/></l><r>mois<s n="n"/><s n="m"/></r></p></e>
+       
+       <e><p><l>orsu<s n="n"/><s n="m"/></l><r>ours<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>orzu<s n="n"/><s n="m"/></l><r>orge<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ospidale<s n="n"/><s n="f"/></l><r>hôpital<s n="n"/><s n="m"/></r></p></e>
+       
+       <e><p><l>pacchettu<s n="n"/><s n="m"/></l><r>parcelle<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>panatteru<s n="n"/><s n="m"/></l><r>boulanger<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>panattera<s n="n"/><s n="f"/></l><r>boulangère<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>pane<s n="n"/><s n="m"/></l><r>pail<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>piluccheru<s n="n"/><s n="m"/></l><r>coiffeur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pilucchera<s n="n"/><s n="f"/></l><r>coiffeuse<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>portu<s n="n"/><s n="m"/></l><r>port<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>prefettura<s n="n"/><s n="f"/></l><r>préfecture<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>puetu<s n="n"/><s n="m"/></l><r>emploi<s n="n"/><s n="m"/></r></p></e>
+       <!-- check this one-->
+       
+       <e><p><l>pulizzéru<s n="n"/><s n="m"/></l><r>policier<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pulizzera<s n="n"/><s n="f"/></l><r>policière<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
+       <!--also check "purtevule" -->
+       
+       <e><p><l>rasoghju<s n="n"/><s n="m"/></l><r>rasoir<s n="n"/><s n="m"/></r></p></e>
+       
+       <e><p><l>sammartinu<s n="n"/><s n="m"/></l><r>escargot<s n="n"/><s n="m"/></r></p></e>
+       <!-- check this one-->
+       
+       <e><p><l>sangui<s n="n"/><s n="m"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sarratura<s n="n"/><s n="f"/></l><r>serrure<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>scagnu<s n="n"/><s n="m"/></l><r>bureau<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>scrittore<s n="n"/><s n="m"/></l><r>écrivain<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>scrittora<s n="n"/><s n="f"/></l><r>écrivain<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>sdighjunu<s n="n"/><s n="m"/></l><r>petit déjeuner<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>seculu<s n="n"/><s n="m"/></l><r>siècle<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sensu<s n="n"/><s n="m"/></l><r>sens<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>settimana<s n="n"/><s n="m"/></l><r>semaine<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sittimana<s n="n"/><s n="m"/></l><r>semaine<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>spechju<s n="n"/><s n="m"/></l><r>miroir<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>studiu<s n="n"/><s n="m"/></l><r>étudier<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>suchju<s n="n"/><s n="m"/></l><r>jus<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sudore<s n="n"/><s n="m"/></l><r>sueur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sudori<s n="n"/><s n="m"/></l><r>sueur<s n="n"/><s n="m"/></r></p></e>
+       
+       <e><p><l>tacca<s n="n"/><s n="f"/></l><r>tache<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>tappu<s n="n"/><s n="m"/></l><r>bouchon<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>tarra<s n="n"/><s n="f"/></l><r>tarra<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>terra<s n="n"/><s n="f"/></l><r>tarra<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>teatru<s n="n"/><s n="m"/></l><r>théâtre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>telefunu<s n="n"/><s n="m"/></l><r>téléphone<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>tettu<s n="n"/><s n="m"/></l><r>plafond<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>timperatura<s n="n"/><s n="f"/></l><r>température<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>tuvagliolu<s n="n"/><s n="m"/></l><r>serviette<s n="n"/><s n="f"/></r></p></e>
+       
+       <e><p><l>verbu<s n="n"/><s n="m"/></l><r>verbe<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>voceru<s n="n"/><s n="m"/></l><r>porte parole<s n="n"/><s n="m"/></r></p></e>
+       
+       
+       
  
       
   
