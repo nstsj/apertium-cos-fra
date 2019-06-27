@@ -524,37 +524,48 @@
       <!--GERUNDS TEMPLATE-->
 
       <!--NOUNS -->
+       <e><p><l>agostu<s n="n"/><s n="m"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>aprile<s n="n"/><s n="m"/></l><r>avril<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>abba<s n="n"/><s n="f"/></l><r>abeille<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>acqua<s n="n"/><s n="f"/></l><r>eau<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>acula<s n="n"/><s n="m"/></l><r>aigle<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>amicu<s n="n"/><s n="f"/></l><r>amie<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>amicu<s n="n"/><s n="m"/></l><r>ami<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>annu<s n="n"/><s n="f"/></l><r>année<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>austu<s n="n"/><s n="f"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>aprili<s n="n"/><s n="m"/></l><r>aril<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>mane<s n="n"/><s n="m"/></l><r>matin<s n="n"/><s n="m"/></r></p></e>  
-       <e><p><l>meziornu<s n="n"/><s n="m"/></l><r>midi<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>sera<s n="n"/><s n="f"/></l><r>soir<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>notte<s n="n"/><s n="f"/></l><r>nuit<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>ghjornu<s n="n"/><s n="m"/></l><r>jour<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>settimana<s n="n"/><s n="f"/></l><r>semaine<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>mese<s n="n"/><s n="m"/></l><r>mois<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>minutu<s n="n"/><s n="m"/></l><r>minute<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ora<s n="n"/><s n="f"/></l><r>heure<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>artèria<s n="n"/><s n="f"/></l><r>artère<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>autunnu<s n="n"/><s n="m"/></l><r>automne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>arechja<s n="n"/><s n="f"/></l><r>oreille<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>argentu<s n="n"/><s n="m"/></l><r>argent<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>arena<s n="n"/><s n="f"/></l><r>sable<s n="f"/><s n="m"/></r></p></e>
+       <e><p><l>animale<s n="n"/><s n="m"/></l><r>animal<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>apa<s n="n"/><s n="m"/></l><r>abeille<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>agnellu<s n="n"/><s n="m"/></l><r>agneau<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sumere<s n="n"/><s n="m"/></l><r>âne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sumeru<s n="n"/><s n="m"/></l><r>âne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>àsinu<s n="n"/><s n="m"/></l><r>âne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ragnu<s n="n"/><s n="m"/></l><r>araignée <s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>astruzzu<s n="n"/><s n="m"/></l><r>autruche<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>struzzu<s n="n"/><s n="m"/></l><r>autruche<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ària<s n="n"/><s n="m"/></l><r>air<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>àrburu<s n="n"/><s n="m"/></l><r>arbre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ànatra<s n="n"/><s n="f"/></l><r>canard<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>arba<s n="n"/><s n="f"/></l><r>herbe<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>acellu<s n="n"/><s n="m"/></l><r>oiseau<s n="n"/><s n="m"/></r></p></e>
        
+       <e><p><l>balena<s n="n"/><s n="f"/></l><r>baleine<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>barba<s n="n"/><s n="f"/></l><r>barbe<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>bocca<s n="n"/><s n="f"/></l><r>bouche<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>bràcciu<s n="n"/><s n="m"/></l><r>bouche<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>banca<s n="n"/><s n="f"/></l><r>anque<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>banchieru<s n="n"/><s n="m"/></l><r>banquier<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>boscu<s n="n"/><s n="m"/></l><r>forêt<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>biera<s n="n"/><s n="f"/></l><r>bière<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>billicu<s n="n"/><s n="m"/></l><r>nombril<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>bracciu<s n="n"/><s n="m"/></l><r>bras<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>butiru <s n="n"/><s n="m"/></l><r>beurre<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>buttiglia<s n="n"/><s n="f"/></l><r>bouteille<s n="n"/><s n="f"/></r></p></e>
        
        <e><p><l>caminu<s n="n"/><s n="m"/></l><r>cheminée<s n="n"/><s n="f"/></r></p></e>
-       <!--check this one -->
-       
        <e><p><l>capilocu<s n="n"/><s n="m"/></l><r>capital<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>capu<s n="n"/><s n="m"/></l><r>tête<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>castellu<s n="n"/><s n="m"/></l><r>château<s n="n"/><s n="f"/></r></p></e>
@@ -568,11 +579,56 @@
        <e><p><l>cumuna<s n="n"/><s n="f"/></l><r>commune<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>cunghjelatore<s n="n"/><s n="m"/></l><r>congélateur<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>curridore<s n="n"/><s n="m"/></l><r>corridor<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cerbellu<s n="n"/><s n="m"/></l><r>cerveau<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ciarbellu<s n="n"/><s n="m"/></l><r>cerveau<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>capellu<s n="n"/><s n="m"/></l><r>cheveu<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cìgliu<s n="n"/><s n="m"/></l><r>cil<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>core<s n="n"/><s n="m"/></l><r>coeur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>vertébrale<s n="n"/><s n="m"/></l><r>colonne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>spinu<s n="n"/><s n="m"/></l><r>colonne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>corpu<s n="n"/><s n="m"/></l><r>corps<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>costa<s n="n"/><s n="m"/></l><r>côte<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>collu<s n="n"/><s n="m"/></l><r>cou<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>chjocca<s n="n"/><s n="m"/></l><r>crâne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cràniu<s n="n"/><s n="m"/></l><r>crâne<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>còscia<s n="n"/><s n="m"/></l><r>cuisse<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cula<s n="n"/><s n="m"/></l><r>fesse<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>carta<s n="n"/><s n="f"/></l><r>papier<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cervu<s n="n"/><s n="m"/></l><r>cerf<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>camellu<s n="n"/><s n="m"/></l><r>chameau<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cavallu<s n="n"/><s n="m"/></l><r>cheval<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>capra<s n="n"/><s n="m"/></l><r>chèvre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cuccudrillu<s n="n"/><s n="m"/></l><r>crocodile<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>calore<s n="n"/><s n="m"/></l><r>chaleur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>caldu<s n="n"/><s n="m"/></l><r>chaleur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>culore<s n="n"/><s n="m"/></l><r>couleur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cagnàccia<s n="n"/><s n="m"/></l><r>requin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>capu<s n="n"/><s n="m"/></l><r>tête<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>culombu<s n="n"/><s n="m"/></l><r>pigeon<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>chjocchju<s n="n"/><s n="m"/></l><r>hibou<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ciòcciu<s n="n"/><s n="m"/></l><r>hibou<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cangurù<s n="n"/><s n="m"/></l><r>kangourou<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>cuppulata<s n="n"/><s n="m"/></l><r>tortue<s n="n"/><s n="m"/></r></p></e>
+      
        
        <e><p><l>dinaru<s n="n"/><s n="m"/></l><r>argent<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>dipartimentu<s n="n"/><s n="m"/></l><r>département<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>dente<s n="n"/><s n="m"/></l><r>dent<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ditu<s n="n"/><s n="m"/></l><r>doigt<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>dicembre<s n="n"/><s n="m"/></l><r>décembre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>dumènica<s n="n"/><s n="m"/></l><r>dimanche<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ditu grossu<s n="n"/><s n="m"/></l><r>pouce<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ditone<s n="n"/><s n="m"/></l><r>pouce<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>dossu<s n="n"/><s n="m"/></l><r>dos  schiena<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>delfinu<s n="n"/><s n="m"/></l><r>dauphin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>desertu<s n="n"/><s n="m"/></l><r>désert<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>disertu<s n="n"/><s n="m"/></l><r>désert<s n="n"/><s n="m"/></r></p></e>
        
        <e><p><l>etimulugia<s n="n"/><s n="f"/></l><r>étymologie<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>este<s n="n"/><s n="m"/></l><r>est<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>estate<s n="n"/><s n="m"/></l><r>été<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>elefante<s n="n"/><s n="m"/></l><r>éléphant<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>erba<s n="n"/><s n="m"/></l><r>herbe<s n="n"/><s n="m"/></r></p></e>
        
        <e><p><l>farina<s n="n"/><s n="f"/></l><r>farine<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>fattòre<s n="n"/><s n="m"/></l><r>facteur<s n="n"/><s n="m"/></r></p></e>
@@ -580,6 +636,19 @@
        <e><p><l>figliu<s n="n"/><s n="m"/></l><r>fils<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>focu <s n="n"/><s n="m"/></l><r>feu<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>furcina<s n="n"/><s n="f"/></l><r>fourchette<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>fecatu<s n="n"/><s n="m"/></l><r>foie<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ferraghju<s n="n"/><s n="m"/></l><r>février<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>fronte<s n="n"/><s n="m"/></l><r>front<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>fiancu<s n="n"/><s n="m"/></l><r>hanche<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>furmìcula<s n="n"/><s n="f"/></l><r>fourmi<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ferru<s n="n"/><s n="m"/></l><r>fer<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>fòglia<s n="n"/><s n="f"/></l><r>feuille<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>fiore<s n="n"/><s n="m"/></l><r>fleur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>fiume<s n="n"/><s n="m"/></l><r>fleuve<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>furesta<s n="n"/><s n="f"/></l><r>forêt<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>freddu<s n="n"/><s n="m"/></l><r>froid<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>fàccia<s n="n"/><s n="f"/></l><r>visage<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>farfalla<s n="n"/><s n="f"/></l><r>papillon<s n="n"/><s n="f"/></r></p></e>
        
        <e><p><l>gallina<s n="n"/><s n="f"/></l><r>poule<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>ghjaddina<s n="n"/><s n="f"/></l><r>poule<s n="n"/><s n="f"/></r></p></e>
@@ -596,10 +665,52 @@
        <e><p><l>glutinu<s n="n"/><s n="m"/></l><r>gluten<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>granaghju<s n="n"/><s n="m"/></l><r>grenier<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>granu<s n="n"/><s n="f"/></l><r><s n="n"/>blé<s n="f"/></r></p></e>
+       <e><p><l>ghjamba<s n="n"/><s n="m"/></l><r>jambe<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>grinza<s n="n"/><s n="m"/></l><r>ride<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>gola<s n="n"/><s n="f"/></l><r>gorge<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ghjòvitu<s n="n"/><s n="m"/></l><r>coude<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>gòitu<s n="n"/><s n="m"/></l><r>coude<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ghjovi<s n="n"/><s n="m"/></l><r>jeudi<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ghjennaghju<s n="n"/><s n="m"/></l><r>janvier<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ghjugnu<s n="n"/><s n="m"/></l><r>juin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>giraffa<s n="n"/><s n="f"/></l><r>girafe<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ghjiraffa<s n="n"/><s n="f"/></l><r>girafe<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ghjallu<s n="n"/><s n="m"/></l><r>coq<s n="n"/><s n="m"/></r></p></e>
+       
        <e><p><l>iogurtu<s n="n"/><s n="m"/></l><r>yaourt<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>isula<s n="n"/><s n="f"/></l><r>île<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>invernu<s n="n"/><s n="m"/></l><r>hiver<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>istintinu<s n="n"/><s n="m"/></l><r>intestin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>inundazione<s n="n"/><s n="m"/></l><r>inondation<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>insettu<s n="n"/><s n="m"/></l><r>insecte<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ippupòtamu<s n="n"/><s n="m"/></l><r>hippopotame<s n="n"/><s n="m"/></r></p></e>
+       
+       <e><p><l>lingua<s n="n"/><s n="f"/></l><r>langue<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>lumaca<s n="n"/><s n="m"/></l><r>escargot<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>làcrima<s n="n"/><s n="m"/></l><r>larme<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>labbru<s n="n"/><s n="m"/></l><r>lèvre<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>lettu<s n="n"/><s n="m"/></l><r>lit<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>léttu<s n="n"/><s n="m"/></l><r>lit<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>luni<s n="n"/><s n="m"/></l><r>lundi<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>lùgliu<s n="n"/><s n="m"/></l><r>juillet<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>liopardu<s n="n"/><s n="m"/></l><r>léopard<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>acciàrtula<s n="n"/><s n="m"/></l><r>lézard<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>lucèrtula<s n="n"/><s n="m"/></l><r>lézard<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>libèllula<s n="n"/><s n="f"/></l><r>libellule<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>levra<s n="n"/><s n="f"/></l><r>lièvre<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>lèvura<s n="n"/><s n="m"/></l><r>lièvre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>lione<s n="n"/><s n="m"/></l><r>lion<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>leone<s n="n"/><s n="m"/></l><r>lion<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>lupu<s n="n"/><s n="m"/></l><r>loup<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>lagu<s n="n"/><s n="m"/></l><r>lac<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>luna<s n="n"/><s n="f"/></l><r>lune<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>lume<s n="n"/><s n="m"/></l><r>lumière<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>luce<s n="n"/><s n="m"/></l><r>lumière<s n="n"/><s n="m"/></r></p></e>
+      
+       <e><p><l>marti<s n="n"/><s n="m"/></l><r>mardi<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>marzu<s n="n"/><s n="m"/></l><r>mars<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>maghju<s n="n"/><s n="m"/></l><r>mai<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mèrcurì<s n="n"/><s n="m"/></l><r>mercredi<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>mare<s n="n"/><s n="m"/></l><r>mer<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>libru<s n="n"/><s n="m"/></l><r>livre<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>mele<s n="n"/><s n="m"/></l><r>miel<s n="n"/><s n="m"/></r></p></e>
@@ -607,10 +718,45 @@
        <e><p><l>merru<s n="n"/><s n="m"/></l><r>mairesse<s n="n"/><s n="f"/></r></p></e>
        <!-- check this one-->
        <e><p><l>mese<s n="n"/><s n="m"/></l><r>mois<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>massella<s n="n"/><s n="m"/></l><r>mâchoire<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>maschja<s n="n"/><s n="m"/></l><r>joue  guancia<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>manu<s n="n"/><s n="m"/></l><r>main<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>mentu<s n="n"/><s n="m"/></l><r>menton<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mustacci<s n="n"/><s n="m"/></l><r>moustache<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mùsculu<s n="n"/><s n="m"/></l><r>muscle<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mane<s n="n"/><s n="m"/></l><r>matin<s n="n"/><s n="m"/></r></p></e>  
+       <e><p><l>meziornu<s n="n"/><s n="m"/></l><r>midi<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mese<s n="n"/><s n="m"/></l><r>mois<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>minutu<s n="n"/><s n="m"/></l><r>minute<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>muntagna<s n="n"/><s n="f"/></l><r>montagne<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>mondu<s n="n"/><s n="m"/></l><r>monde<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>mer<s n="n"/><s n="m"/></l><r>mare<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>muntone<s n="n"/><s n="m"/></l><r>mouton<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>musca<s n="n"/><s n="f"/></l><r>mouche<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>mosca<s n="n"/><s n="f"/></l><r>mouche<s n="n"/><s n="f"/></r></p></e>
+  
+       <e><p><l>nasu<s n="n"/><s n="m"/></l><r>nez<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>notte<s n="n"/><s n="f"/></l><r>nuit<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>naru<s n="n"/><s n="m"/></l><r>narine<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>nerf<s n="n"/><s n="m"/></l><r>nervu<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>nerbu<s n="n"/><s n="m"/></l><r>nervu<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>nordu<s n="n"/><s n="m"/></l><r>nord<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>nuvembre<s n="n"/><s n="m"/></l><r>novembre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>nìvulu<s n="n"/><s n="m"/></l><r>nuage<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>nìulu<s n="n"/><s n="m"/></l><r>nuage<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>neve<s n="n"/><s n="m"/></l><r>nuage<s n="n"/><s n="m"/></r></p></e>
        
        <e><p><l>orsu<s n="n"/><s n="m"/></l><r>ours<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>orzu<s n="n"/><s n="m"/></l><r>orge<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>ospidale<s n="n"/><s n="f"/></l><r>hôpital<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ochju<s n="n"/><s n="m"/></l><r>oeil<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ossu<s n="n"/><s n="m"/></l><r>os<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ora<s n="n"/><s n="f"/></l><r>heure<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ottobre<s n="n"/><s n="m"/></l><r>octobre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>oru<s n="n"/><s n="m"/></l><r>or<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ombra<s n="n"/><s n="f"/></l><r>ombre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>orsu<s n="n"/><s n="m"/></l><r>ours<s n="n"/><s n="m"/></r></p></e>
        
        <e><p><l>pacchettu<s n="n"/><s n="m"/></l><r>parcelle<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>panatteru<s n="n"/><s n="m"/></l><r>boulanger<s n="n"/><s n="m"/></r></p></e>
@@ -625,14 +771,46 @@
        
        <e><p><l>pulizzéru<s n="n"/><s n="m"/></l><r>policier<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>pulizzera<s n="n"/><s n="f"/></l><r>policière<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
        <!--also check "purtevule" -->
+
+       <e><p><l>pàlpebra<s n="n"/><s n="m"/></l><r>paupière<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>palpèttula<s n="n"/><s n="m"/></l><r>paupière<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pelle<s n="n"/><s n="f"/></l><r>peau<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>pede<s n="n"/><s n="m"/></l><r>pied<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>polsu<s n="n"/><s n="m"/></l><r>poignet<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>polzu<s n="n"/><s n="m"/></l><r>poignet<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pugnu<s n="n"/><s n="m"/></l><r>poing<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pettu<s n="n"/><s n="m"/></l><r>poitrine<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pulmone<s n="n"/><s n="m"/></l><r>poumon<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>punente<s n="n"/><s n="m"/></l><r>ouest<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pòlvera<s n="n"/><s n="f"/></l><r>poussière<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>piògia<s n="n"/><s n="m"/></l><r>pluie<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pioghja<s n="n"/><s n="m"/></l><r>pluie<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pianta<s n="n"/><s n="m"/></l><r>plante<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>petra<s n="n"/><s n="f"/></l><r>pierre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pesciucane<s n="n"/><s n="m"/></l><r>requin<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pantera<s n="n"/><s n="f"/></l><r>panthère<s n="n"/><s n="f"/></r></p></e>
+       
+       <e><p><l>pèsciu<s n="n"/><s n="m"/></l><r>poisson<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pùcia<s n="n"/><s n="f"/></l><r>puce<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>puce<s n="n"/><s n="m"/></l><r>puce<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>porcu<s n="n"/><s n="m"/></l><r>cochon<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>pùppula<s n="n"/><s n="f"/></l><r>sein<s n="n"/><s n="f"/></r></p></e>
        
        <e><p><l>rasoghju<s n="n"/><s n="m"/></l><r>rasoir<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>renu<s n="n"/><s n="m"/></l><r>rein<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>rivìgliula<s n="n"/><s n="m"/></l><r>ride<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ràdica<s n="n"/><s n="f"/></l><r>racine<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>rama<s n="n"/><s n="f"/></l><r>branche<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>rena<s n="n"/><s n="f"/></l><r>sable<s n="f"/><s n="m"/></r></p></e>
+       <e><p><l>rinùceru<s n="n"/><s n="m"/></l><r>rhinocéros<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ranochja<s n="n"/><s n="f"/></l><r>grenouille<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>ròndina<s n="n"/><s n="m"/></l><r>hirondelle<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>rìcciu<s n="n"/><s n="m"/></l><r>hérisson<s n="n"/><s n="m"/></r></p></e>
        
-       <e><p><l>sammartinu<s n="n"/><s n="m"/></l><r>escargot<s n="n"/><s n="m"/></r></p></e>
+      
        <!-- check this one-->
-       
+  
        <e><p><l>sangui<s n="n"/><s n="m"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>sarratura<s n="n"/><s n="f"/></l><r>serrure<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>scagnu<s n="n"/><s n="m"/></l><r>bureau<s n="n"/><s n="m"/></r></p></e>
@@ -641,6 +819,8 @@
        <e><p><l>sdighjunu<s n="n"/><s n="m"/></l><r>petit déjeuner<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>seculu<s n="n"/><s n="m"/></l><r>siècle<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>sensu<s n="n"/><s n="m"/></l><r>sens<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sera<s n="n"/><s n="f"/></l><r>soir<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>settimana<s n="n"/><s n="f"/></l><r>semaine<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>settimana<s n="n"/><s n="m"/></l><r>semaine<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>sittimana<s n="n"/><s n="m"/></l><r>semaine<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>spechju<s n="n"/><s n="m"/></l><r>miroir<s n="n"/><s n="m"/></r></p></e>
@@ -648,132 +828,63 @@
        <e><p><l>suchju<s n="n"/><s n="m"/></l><r>jus<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>sudore<s n="n"/><s n="m"/></l><r>sueur<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>sudori<s n="n"/><s n="m"/></l><r>sueur<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>spalla<s n="n"/><s n="m"/></l><r>épaule<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>stòmacu<s n="n"/><s n="m"/></l><r>estomac<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>saliva<s n="n"/><s n="m"/></l><r>salive<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sputu<s n="n"/><s n="m"/></l><r>salive<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sud<s n="n"/><s n="m"/></l><r>sud<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sàbbatu<s n="n"/><s n="m"/></l><r>samedi<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sittembre<s n="n"/><s n="m"/></l><r>septembre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>scògliu<s n="n"/><s n="m"/></l><r>rocher<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sole<s n="n"/><s n="m"/></l><r>soleil<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>stella<s n="n"/><s n="f"/></l><r>étoile<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>senu<s n="n"/><s n="m"/></l><r>sein<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sang<s n="n"/><s n="m"/></l><r>sangue<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>serpa<s n="n"/><s n="f"/></l><r>serpente<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>serpent<s n="n"/><s n="m"/></l><r>serpente<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sanguitta<s n="n"/><s n="m"/></l><r>sangsue<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>sangusuchje<s n="n"/><s n="m"/></l><r>sangsue<s n="n"/><s n="m"/></r></p></e>
+
        
        <e><p><l>tacca<s n="n"/><s n="f"/></l><r>tache<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>tappu<s n="n"/><s n="m"/></l><r>bouchon<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>tarra<s n="n"/><s n="f"/></l><r>tarra<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>talorca<s n="n"/><s n="m"/></l><r>cheville <s n="n"/><s n="m"/></r></p></e>
        <e><p><l>terra<s n="n"/><s n="f"/></l><r>tarra<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>teatru<s n="n"/><s n="m"/></l><r>théâtre<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>telefunu<s n="n"/><s n="m"/></l><r>téléphone<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>tettu<s n="n"/><s n="m"/></l><r>plafond<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>timperatura<s n="n"/><s n="f"/></l><r>température<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>tuvagliolu<s n="n"/><s n="m"/></l><r>serviette<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>talorca<s n="n"/><s n="m"/></l><r>cheville <s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>tupezzu<s n="n"/><s n="m"/></l><r>nuque<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>tartaruga<s n="n"/><s n="m"/></l><r>tortue<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>tigru<s n="n"/><s n="m"/></l><r>tigre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>toru<s n="n"/><s n="f"/></l><r>taureau<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>talpa<s n="n"/><s n="f"/></l><r>taupe<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>terra<s n="n"/><s n="f"/></l><r>terre<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>timpesta<s n="n"/><s n="f"/></l><r>tempête<s n="n"/><s n="f"/></r></p></e>
+       
+       <e><p><l>unghja<s n="n"/><s n="m"/></l><r>ongle<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>umbrìccia<s n="n"/><s n="m"/></l><r>ombre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ursu<s n="n"/><s n="m"/></l><r>ours<s n="n"/><s n="m"/></r></p></e>
        
        <e><p><l>verbu<s n="n"/><s n="m"/></l><r>verbe<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>voceru<s n="n"/><s n="m"/></l><r>porte parole<s n="n"/><s n="m"/></r></p></e>
-       
-       <e><p><l>luni<s n="n"/><s n="m"/></l><r>lundi<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>marti<s n="n"/><s n="m"/></l><r>mardi<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>mèrcurì<s n="n"/><s n="m"/></l><r>mercredi<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ghjovi<s n="n"/><s n="m"/></l><r>jeudi<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>vènneri<s n="n"/><s n="m"/></l><r>vendredi<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>sàbbatu<s n="n"/><s n="m"/></l><r>samedi<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>dumènica<s n="n"/><s n="m"/></l><r>dimanche<s n="n"/><s n="m"/></r></p></e>
-       
-       <e><p><l>ghjennaghju<s n="n"/><s n="m"/></l><r>janvier<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ferraghju<s n="n"/><s n="m"/></l><r>février<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>marzu<s n="n"/><s n="m"/></l><r>mars<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>aprile<s n="n"/><s n="m"/></l><r>avril<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>maghju<s n="n"/><s n="m"/></l><r>mai<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ghjugnu<s n="n"/><s n="m"/></l><r>juin<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>lùgliu<s n="n"/><s n="m"/></l><r>juillet<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>agostu<s n="n"/><s n="m"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>sittembre<s n="n"/><s n="m"/></l><r>septembre<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ottobre<s n="n"/><s n="m"/></l><r>octobre<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>nuvembre<s n="n"/><s n="m"/></l><r>novembre<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>dicembre<s n="n"/><s n="m"/></l><r>décembre<s n="n"/><s n="m"/></r></p></e>
-       
-       <e><p><l>artèria<s n="n"/><s n="f"/></l><r>artère<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>barba<s n="n"/><s n="f"/></l><r>barbe<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>bocca<s n="n"/><s n="f"/></l><r>bouche<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>bràcciu<s n="n"/><s n="m"/></l><r>bouche<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>cerbellu<s n="n"/><s n="m"/></l><r>cerveau<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ciarbellu<s n="n"/><s n="m"/></l><r>cerveau<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>capellu<s n="n"/><s n="m"/></l><r>cheveu<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>talorca<s n="n"/><s n="m"/></l><r>cheville <s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>cìgliu<s n="n"/><s n="m"/></l><r>cil<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>core<s n="n"/><s n="m"/></l><r>coeur<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>vertébrale<s n="n"/><s n="m"/></l><r>colonne<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>spinu<s n="n"/><s n="m"/></l><r>colonne<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>corpu<s n="n"/><s n="m"/></l><r>corps<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>costa<s n="n"/><s n="m"/></l><r>côte<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>collu<s n="n"/><s n="m"/></l><r>cou<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ghjòvitu<s n="n"/><s n="m"/></l><r>coude<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>gòitu<s n="n"/><s n="m"/></l><r>coude<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>chjocca<s n="n"/><s n="m"/></l><r>crâne<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>cràniu<s n="n"/><s n="m"/></l><r>crâne<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>còscia<s n="n"/><s n="m"/></l><r>cuisse<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>dente<s n="n"/><s n="m"/></l><r>dent<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ditu<s n="n"/><s n="m"/></l><r>doigt<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>dossu<s n="n"/><s n="m"/></l><r>dos  schiena<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>spalla<s n="n"/><s n="m"/></l><r>épaule<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>stòmacu<s n="n"/><s n="m"/></l><r>estomac<s n="n"/><s n="m"/></r></p></e>
-       
-       
-       <e><p><l>cula<s n="n"/><s n="m"/></l><r>fesse<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>fecatu<s n="n"/><s n="m"/></l><r>foie<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>fronte<s n="n"/><s n="m"/></l><r>front<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>gola<s n="n"/><s n="f"/></l><r>gorge<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>fiancu<s n="n"/><s n="m"/></l><r>hanche<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>istintinu<s n="n"/><s n="m"/></l><r>intestin<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ghjamba<s n="n"/><s n="m"/></l><r>jambe<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>maschja<s n="n"/><s n="m"/></l><r>joue  guancia<s n="n"/><s n="m"/></r></p></e>
-       
-       <e><p><l>lingua<s n="n"/><s n="f"/></l><r>langue<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>làcrima<s n="n"/><s n="m"/></l><r>larme<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>labbru<s n="n"/><s n="m"/></l><r>lèvre<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>massella<s n="n"/><s n="m"/></l><r>mâchoire<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>manu<s n="n"/><s n="m"/></l><r>main<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>mentu<s n="n"/><s n="m"/></l><r>menton<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>mustacci<s n="n"/><s n="m"/></l><r>moustache<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>mùsculu<s n="n"/><s n="m"/></l><r>muscle<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>naru<s n="n"/><s n="m"/></l><r>narine<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>nerf<s n="n"/><s n="m"/></l><r>nervu<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>nerbu<s n="n"/><s n="m"/></l><r>nervu<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>nasu<s n="n"/><s n="m"/></l><r>nez<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>billicu<s n="n"/><s n="m"/></l><r>nombril<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>tupezzu<s n="n"/><s n="m"/></l><r>nuque<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ochju<s n="n"/><s n="m"/></l><r>oeil<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>unghja<s n="n"/><s n="m"/></l><r>ongle<s n="n"/><s n="m"/></r></p></e>
-       
-       <e><p><l>arechja<s n="n"/><s n="f"/></l><r>oreille<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>ditu di u pede<s n="n"/><s n="m"/></l><r>orteil<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ossu<s n="n"/><s n="m"/></l><r>os<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>pàlpebra<s n="n"/><s n="m"/></l><r>paupière<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>palpèttula<s n="n"/><s n="m"/></l><r>paupière<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>pelle<s n="n"/><s n="f"/></l><r>peau<s n="n"/><s n="f"/></r></p></e>
-       <e><p><l>pede<s n="n"/><s n="m"/></l><r>pied<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>polsu<s n="n"/><s n="m"/></l><r>poignet<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>polzu<s n="n"/><s n="m"/></l><r>poignet<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>pugnu<s n="n"/><s n="m"/></l><r>poing<s n="n"/><s n="m"/></r></p></e>
-       
-       
-       <e><p><l>pettu<s n="n"/><s n="m"/></l><r>poitrine<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ditu grossu<s n="n"/><s n="m"/></l><r>pouce<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>ditone<s n="n"/><s n="m"/></l><r>pouce<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>pulmone<s n="n"/><s n="m"/></l><r>poumon<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>renu<s n="n"/><s n="m"/></l><r>rein<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>rivìgliula<s n="n"/><s n="m"/></l><r>ride<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>grinza<s n="n"/><s n="m"/></l><r>ride<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>saliva<s n="n"/><s n="m"/></l><r>salive<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>sputu<s n="n"/><s n="m"/></l><r>salive<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
-       <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
-       <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
-       <e><p><l><s n="n"/><s n="m"/></l><r><s n="n"/><s n="m"/></r></p></e>
-
-
-
-
-       <e><p><l>invernu<s n="n"/><s n="m"/></l><r>hiver<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>autunnu<s n="n"/><s n="m"/></l><r>automne<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>estate<s n="n"/><s n="m"/></l><r>été<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>veranu<s n="n"/><s n="m"/></l><r>printemps<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>punente<s n="n"/><s n="m"/></l><r>ouest<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>nordu<s n="n"/><s n="m"/></l><r>nord<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>sud<s n="n"/><s n="m"/></l><r>sud<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>este<s n="n"/><s n="m"/></l><r>est<s n="n"/><s n="m"/></r></p></e>
-       
+       <e><p><l>voceru<s n="n"/><s n="m"/></l><r>porte parole<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>vetru<s n="n"/><s n="m"/></l><r>verre<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ventu<s n="n"/><s n="m"/></l><r>vent<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>volpe<s n="n"/><s n="m"/></l><r>renard<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>ventre<s n="n"/><s n="f"/></l><r>stomacu<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>vacca<s n="n"/><s n="f"/></l><r>vache<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>veau<s n="n"/><s n="m"/></l><r>vitellu<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>vespa<s n="n"/><s n="f"/></l><r>guêpe<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>visu<s n="n"/><s n="m"/></l><r>visage<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>vena<s n="n"/><s n="f"/></l><r>veine<s n="n"/><s n="f"/></r></p></e>
+
+       <e><p><l>zebra<s n="n"/><s n="f"/></l><r>zèbre<s n="n"/><s n="f"/></r></p></e>
+
 
       <!--PROPER NOUNS--> 
       <e><p><l>Jean<s n="np"/><s n="m"/></l><r>Jean<s n="np"/><s n="m"/></r></p></e>
@@ -822,6 +933,11 @@
       <e><p><l>regiunale<s n="adj"/></l><r>régional<s n="adj"/></r></p></e>
       <e><p><l>vechju<s n="adj"/></l><r>vieil<s n="adj"/></r></p></e>
       <e><p><l>verde<s n="adj"/></l><r>vert<s n="adj"/></r></p></e>
+      <e><p><l>turchinu<s n="adj"/></l><r>bleu<s n="adj"/></r></p></e>
+      <e><p><l>neru<s n="adj"/></l><r>noir<s n="adj"/></r></p></e>
+      <e><p><l>negru<s n="adj"/></l><r>noir<s n="adj"/></r></p></e>
+      <e><p><l>rossu<s n="adj"/></l><r>rouge<s n="adj"/></r></p></e>
+
       
       
       <!--ADVERBS-->
